@@ -27,4 +27,4 @@ Thanks to the following folks who made contributions to this project.
 
 **Get your name listed here**
 
-[![List of Contributors](https://github.com/jassics/awesome-aws-security/graphs/contributors)](https://github.com/jassics/awesome-aws-security/graphs/contributors)
+[List of Contributors](https://github.com/jassics/awesome-aws-security/graphs/contributors)
