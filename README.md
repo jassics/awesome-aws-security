@@ -1,6 +1,8 @@
 # Awesome AWS Security [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 A common curated list of links, references, books videos, tutorials (Free or
 Paid), Exploit, CTFs, Hacking Practices etc. which are obviously related to AWS Security.
+_List inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing._
 
 ## Books
 
