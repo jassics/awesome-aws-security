@@ -51,6 +51,7 @@ AWS has awesome lists of whitepapers related to AWS Security. We are adding few 
 7. [A deep dive into AWS S3 access control](https://labs.detectify.com/2017/07/13/a-deep-dive-into-aws-s3-access-controls-taking-full-control-over-your-assets/) - It will give a very good grip on how S3 buckets can be exploited. Lengthy but worth to go through.
 8. [How Federico hacked a whole EC2 network during a penetration test](https://www.secsignal.org/en/news/how-i-hacked-a-whole-ec2-network-during-a-penetration-test/)
 9. [A short blog on hacking AWS](https://www.devopsgroup.com/blog/hacking-aws-blog/) - Examples are based on cloudgoat.
+10. [S3 security is flawed by design](https://www.upguard.com/blog/s3-security-is-flawed-by-design) - This article will show you why you need to be extra careful when using AWS S3. 
 
 ## Online Courses (Paid/Free)
 1. [AWS Fundamentals: Address Security Risks](https://www.coursera.org/learn/aws-fundamentals-addressing-security-risk) - Coursera
