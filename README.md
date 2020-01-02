@@ -25,6 +25,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 2. [Account Security with IAM](https://www.youtube.com/watch?v=9CKsX6MOPDQ) - Youtube
 3. [AWS re:Inforce 2019 Security Best Practices](https://www.youtube.com/watch?v=u6BCVkXkPnM) - Youtube
 4. [AWS Cloud Security Playlist](https://www.youtube.com/watch?v=N4DdqAkeqD4&list=PLxzKY3wu0_FL4VDfuCohtikXTQNTvKQVX) - Youtube
+5. [A cloud security architecture workshop by RSA](https://www.youtube.com/watch?v=4TxvqZFMaoA) - Youtube
 
 ## Online Tutorials/Blogs/Presentations
 1. [AWS Security official blog](https://aws.amazon.com/blogs/security/)
@@ -32,6 +33,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 3. [Why the CIA trusts AWS](https://mediatemple.net/blog/tips/aws-building-blocks/)
 4. [Fundamentals of AWS Security](https://www.slideshare.net/AmazonWebServices/fundamentals-of-aws-security) - Presentation from AWS
 5. [Introduction to AWS Security](https://www.slideshare.net/AmazonWebServices/introduction-to-aws-security-131234529) - Presentation from AWS
+6. [AWS Security primer](https://cloudonaut.io/aws-security-primer/) - Nice overview and quick run through AWS Security resources.
 
 ## Online Courses (Paid/Free)
 1. [AWS Fundamentals: Address Security Risks](https://www.coursera.org/learn/aws-fundamentals-addressing-security-risk) - Coursera
