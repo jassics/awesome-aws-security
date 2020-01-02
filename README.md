@@ -12,13 +12,27 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 5. AWS Automation Cookbook
 
 ## AWS Whitepapers
-1. [AWS Security Best Practices](http://d0.awsstatic.com/whitepapers/Security/AWS_Security_Best_Practices.pdf)
-2. [AWS Security Pillar](https://d1.awsstatic.com/whitepapers/architecture/AWS-Security-Pillar.pdf)
-3. [AWS Overview of Security Processes](https://d0.awsstatic.com/whitepapers/aws-security-whitepaper.pdf)
-4. [NIST Cybersecurity Framework](https://d0.awsstatic.com/whitepapers/compliance/NIST_Cybersecurity_Framework_CSF.pdf)
-5. [AWS Risk And Compliance](https://d0.awsstatic.com/whitepapers/compliance/AWS_Risk_and_Compliance_Whitepaper.pdf)
-6. [AWS Auditing Security Checklist](https://d0.awsstatic.com/whitepapers/compliance/AWS_Risk_and_Compliance_Whitepaper.pdf)
-7. [AWS HIPAA Compliance Whitepaper](https://d0.awsstatic.com/whitepapers/compliance/AWS_HIPAA_Compliance_Whitepaper.pdf)
+AWS has awesome lists of whitepapers related to AWS Security. We are adding few important one here. You can anytime check more for updated or new security whitepapers [here](https://aws.amazon.com/security/security-learning/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc)
+
+1. [AWS Overview](https://d1.awsstatic.com/whitepapers/aws-overview.pdf) - One of the important whitepaper to understand an overview of AWS
+2. [AWS Security Best Practices](http://d0.awsstatic.com/whitepapers/Security/AWS_Security_Best_Practices.pdf)
+3. [AWS Security Pillar](https://d1.awsstatic.com/whitepapers/architecture/AWS-Security-Pillar.pdf)
+4. [Introduction to Security By Design](https://d1.awsstatic.com/whitepapers/compliance/Intro_to_Security_by_Design.pdf)
+5. [AWS Overview of Security Processes](https://d0.awsstatic.com/whitepapers/aws-security-whitepaper.pdf)
+6. [AWS Well Architected Framework](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf)
+7. [NIST Cybersecurity Framework](https://d0.awsstatic.com/whitepapers/compliance/NIST_Cybersecurity_Framework_CSF.pdf)
+8. [AWS Risk And Compliance](https://d0.awsstatic.com/whitepapers/compliance/AWS_Risk_and_Compliance_Whitepaper.pdf)
+9. [AWS Security Checklist](https://d1.awsstatic.com/whitepapers/Security/AWS_Security_Checklist.pdf)
+10. [AWS HIPAA Compliance Whitepaper](https://d0.awsstatic.com/whitepapers/compliance/AWS_HIPAA_Compliance_Whitepaper.pdf)
+11. [Overview of AWS Lambda Security](https://d1.awsstatic.com/whitepapers/Overview-AWS-Lambda-Security.pdf)
+12. [AWS Security Incident Response](https://d1.awsstatic.com/whitepapers/aws_security_incident_response.pdf)
+13. [AWS KMS Best Practices](https://d1.awsstatic.com/whitepapers/aws-kms-best-practices.pdf)
+14. [Encrypting File Data with Amazon Elastic File System](https://d1.awsstatic.com/whitepapers/Security/amazon-efs-encrypted-filesystems.pdf)
+15. [Security of AWS CloudHSM backups](https://d1.awsstatic.com/whitepapers/Security/security-of-aws-cloudhsm-backups.pdf)
+16. [AWS Cloud Adoption Framework](https://d1.awsstatic.com/whitepapers/aws_cloud_adoption_framework.pdf)
+17. [AWS CAF Security perspective](https://d1.awsstatic.com/whitepapers/AWS_CAF_Security_Perspective.pdf)
+18. [AWS Auditing Security Checklist](https://d1.awsstatic.com/whitepapers/compliance/AWS_Auditing_Security_Checklist.pdf)
+19. [Introduction to AWS Security Processes](https://d0.awsstatic.com/whitepapers/Security/Intro_Security_Practices.pdf)
 
 ## Videos
 1. [AWS Security by Design](https://www.youtube.com/watch?v=I1SwoKxB13c) - Youtube
@@ -32,8 +46,11 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 2. [AWS in Plain English](https://expeditedsecurity.com/aws-in-plain-english/)
 3. [Why the CIA trusts AWS](https://mediatemple.net/blog/tips/aws-building-blocks/)
 4. [Fundamentals of AWS Security](https://www.slideshare.net/AmazonWebServices/fundamentals-of-aws-security) - Presentation from AWS
-5. [Introduction to AWS Security](https://www.slideshare.net/AmazonWebServices/introduction-to-aws-security-131234529) - Presentation from AWS
-6. [AWS Security primer](https://cloudonaut.io/aws-security-primer/) - Nice overview and quick run through AWS Security resources.
+5. [AWS Security primer](https://cloudonaut.io/aws-security-primer/) - Nice overview and quick run through AWS Security resources.
+6. [How a whitehat hacker earned $1500 in 15 minutes due to AWS S3 misconfiguration](https://medium.com/@protector47/how-i-earned-1-500-in-just-15-mins-due-to-amazon-s3-bucket-misconfiguration-953b28242f95) - It was fun going through the blog. You can learn from this article too.
+7. [A deep dive into AWS S3 access control](https://labs.detectify.com/2017/07/13/a-deep-dive-into-aws-s3-access-controls-taking-full-control-over-your-assets/) - It will give a very good grip on how S3 buckets can be exploited. Lengthy but worth to go through.
+8. [How Federico hacked a whole EC2 network during a penetration test](https://www.secsignal.org/en/news/how-i-hacked-a-whole-ec2-network-during-a-penetration-test/)
+9. [A short blog on hacking AWS](https://www.devopsgroup.com/blog/hacking-aws-blog/) - Examples are based on cloudgoat.
 
 ## Online Courses (Paid/Free)
 1. [AWS Fundamentals: Address Security Risks](https://www.coursera.org/learn/aws-fundamentals-addressing-security-risk) - Coursera
