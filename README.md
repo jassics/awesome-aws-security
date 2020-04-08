@@ -5,12 +5,13 @@ Paid), Exploit, CTFs, Hacking Practices etc. which are obviously related to AWS 
 _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing._
 
 ## Books
-1. Hands-On AWS Penetration Testing with Kali Linux by PackT
-2. Mastering AWS Security by PackT
-3. Security Best Practices on AWS by PackT
-4. Cloud Security Automation
-5. AWS Automation Cookbook
+1. [Hands-On AWS Penetration Testing with Kali Linux by PackT](https://www.packtpub.com/virtualization-and-cloud/hands-aws-penetration-testing-kali-linux)
+2. [Mastering AWS Security by PackT](https://www.packtpub.com/in/virtualization-and-cloud/mastering-aws-security)
+3. [Security Best Practices on AWS by PackT](https://www.packtpub.com/in/virtualization-and-cloud/aws-security-best-practices-aws)
+4. [Cloud Security Automation](https://www.packtpub.com/in/networking-and-servers/cloud-security-automation)
+5. [AWS Automation Cookbook](https://www.packtpub.com/in/virtualization-and-cloud/aws-automation-cookbook)
 6. [AWS Lambda Security Best Practices](http://www.aliencoders.org/wp-content/uploads/2020/01/AWS-Lambda-Security-eBook-1.pdf) - It's published by Puresec and it has a good overview on AWS Lambda Security Best Practices which we should follow
+7. [AWS Security by Manning](https://www.manning.com/books/aws-security) - Very nice book in Progress, yet to release.
 
 ## AWS Whitepapers
 AWS has awesome lists of whitepapers related to AWS Security. We are adding few important one here. You can anytime check more for updated or new security whitepapers [here](https://aws.amazon.com/security/security-learning/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc)
@@ -35,13 +36,16 @@ AWS has awesome lists of whitepapers related to AWS Security. We are adding few 
 18. [AWS Auditing Security Checklist](https://d1.awsstatic.com/whitepapers/compliance/AWS_Auditing_Security_Checklist.pdf)
 19. [Introduction to AWS Security Processes](https://d0.awsstatic.com/whitepapers/Security/Intro_Security_Practices.pdf)
 20. [AWS CIS Foundation benchmark](https://d1.awsstatic.com/whitepapers/compliance/AWS_CIS_Foundations_Benchmark.pdf)
+21. [Security overview of AWS Lambda](https://aws.amazon.com/lambda/security-overview-of-aws-lambda/)
 
 ## Videos
-1. [AWS Security by Design](https://www.youtube.com/watch?v=I1SwoKxB13c) - Youtube
-2. [Account Security with IAM](https://www.youtube.com/watch?v=9CKsX6MOPDQ) - Youtube
-3. [AWS re:Inforce 2019 Security Best Practices](https://www.youtube.com/watch?v=u6BCVkXkPnM) - Youtube
-4. [AWS Cloud Security Playlist](https://www.youtube.com/watch?v=N4DdqAkeqD4&list=PLxzKY3wu0_FL4VDfuCohtikXTQNTvKQVX) - Youtube
-5. [A cloud security architecture workshop by RSA](https://www.youtube.com/watch?v=4TxvqZFMaoA) - Youtube
+1. [The fundamentals of AWS Security](https://www.youtube.com/watch?v=-ObImxw1PmI) - Youtube
+2. [AWS Security by Design](https://www.youtube.com/watch?v=I1SwoKxB13c) - Youtube
+3. [Account Security with IAM](https://www.youtube.com/watch?v=9CKsX6MOPDQ) - Youtube
+4. [AWS re:Inforce 2019 Security Best Practices](https://www.youtube.com/watch?v=u6BCVkXkPnM) - Youtube
+5. [AWS Cloud Security Playlist](https://www.youtube.com/watch?v=N4DdqAkeqD4&list=PLxzKY3wu0_FL4VDfuCohtikXTQNTvKQVX) - Youtube
+6. [A cloud security architecture workshop by RSA](https://www.youtube.com/watch?v=4TxvqZFMaoA) - Youtube
+7. [AWS Cloud Security](https://www.oreilly.com/library/view/aws-cloud-security/9780135174784/) - Oreilly
 
 ## Online Tutorials/Blogs/Presentations
 1. [AWS Security official blog](https://aws.amazon.com/blogs/security/)
@@ -54,6 +58,8 @@ AWS has awesome lists of whitepapers related to AWS Security. We are adding few 
 8. [How Federico hacked a whole EC2 network during a penetration test](https://www.secsignal.org/en/news/how-i-hacked-a-whole-ec2-network-during-a-penetration-test/)
 9. [A short blog on hacking AWS](https://www.devopsgroup.com/blog/hacking-aws-blog/) - Examples are based on cloudgoat.
 10. [S3 security is flawed by design](https://www.upguard.com/blog/s3-security-is-flawed-by-design) - This article will show you why you need to be extra careful when using AWS S3.
+11. [51 Tips for Security AWS(pdf)](https://www.mcafee.com/enterprise/en-us/assets/skyhigh/white-papers/wp-definitive-guide-to-aws-ebook.pdf) - McAfee
+12. [The rolw of API gateways in API security](https://dzone.com/articles/the-role-of-api-gateways-in-api-security)
 
 ## Online Courses (Paid/Free)
 1. [AWS Fundamentals: Address Security Risks](https://www.coursera.org/learn/aws-fundamentals-addressing-security-risk) - Coursera
@@ -68,7 +74,19 @@ AWS has awesome lists of whitepapers related to AWS Security. We are adding few 
 10. [Cloud Hacking course](https://www.notsosecure.com/hacking-training/cloud-hacking/) - From NotSoSercure
 
 ## Tools of Trade
-1. [AWS Security Products](https://aws.amazon.com/products/security/)
+1. [AWS Security Products - Official](https://aws.amazon.com/products/security/) - Few Important tools that you should consider are:
+    * 1.1 **AWS IAM:** AWS Identity and Access Management (IAM) enables you to manage access to AWS services and resources securely
+    * 1.2 **CloudWatch:** CloudWatch is the AWS monitoring tool
+    * 1.3 **CloudTrail:** AWS CloudTrail is a service that enables governance, compliance, operational auditing, and risk auditing of your AWS account 
+    * 1.4 **AWS Inspector:** AWS inspector is a security assessment service that does vulnerability and best-practice scanning for AWS applications
+    * 1.5 **Amazon GuardDuty:** GuardDuty is a managed threat detection service that is simple to deploy, and scales with your infrastructure
+    * 1.6 **AAWS KMS:** AWS KMS is a secure and resilient service that uses hardware security modules that have been validated under FIPS 140-2
+    * 1.7 **AWS Shield:** AWS Shield is a managed DDoS protection service. AWS Shield can protect EC2, Load balancers, CloudFront, Global Accelerator, and Route 53 resources
+    * 1.8 **AWS Trusted Advisor:** AWS Trusted Advisor is an online tool that provides you real time guidance to help you provision your resources following AWS best practices
+    * 1.9 **AWS Config:** AWS Config is a service that enables you to assess, audit, and evaluate the configurations of your AWS resources 
+    * 1.10 **Security Hub:** AWS Security Hub gives you a comprehensive view of your high-priority security alerts and security posture across your AWS accounts
+    * 1.11 **AWS WAF:** AWS WAF is a web application firewall that helps protect your web applications or APIs against common web exploits that may affect availability, compromise security, or consume excessive resources
+    * 1.12 **AWS Macie:** Macie is all about protecting data. It is a machine learning service that watches data access trends and finds anomalies to spot data leaks and unauthorized data access. 
 2. [Arsenal of AWS Security Tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) - Collection of all security category tools and products
 3. [AWS Security Automation](https://github.com/awslabs/aws-security-automation) - Collection of scripts and resources for DevSecOps and Automated Incident Response Security
 4. [Security Monkey](https://github.com/Netflix/security_monkey) - Monitors AWS, GCP, OpenStack, and GitHub orgs for assets and their changes over time.
@@ -90,6 +108,8 @@ AWS has awesome lists of whitepapers related to AWS Security. We are adding few 
 3. [Flaws2 focuses on AWS security concepts through various challenge levels](http://flaws2.cloud/)
 4. [CloudGoat](https://github.com/RhinoSecurityLabs/cloudgoat) - Vulnerable by Design AWS infrastructure setup tool
 5. [OWASP ServerlessGoat](https://github.com/OWASP/Serverless-Goat) - OWASP ServerlessGoat is a deliberately insecure realistic AWS Lambda serverless application maintained by OWASP for educational purposes.
+6. [AWS S3 CTF Challenges with solutions](https://n0j.github.io/2017/10/02/aws-s3-ctf.html)
+7. [AWS CTF with practical scenario](https://r00tz-ctf.awssecworkshops.com/)
 
 ## AWS Security Breaches
 1. [AWS Security breaches - 2017](https://www.sumologic.com/blog/aws-security-breaches-2017/)
