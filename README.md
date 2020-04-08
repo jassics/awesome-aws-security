@@ -80,7 +80,7 @@ AWS has awesome lists of whitepapers related to AWS Security. We are adding few 
     * 1.3 **CloudTrail:** AWS CloudTrail is a service that enables governance, compliance, operational auditing, and risk auditing of your AWS account 
     * 1.4 **AWS Inspector:** AWS inspector is a security assessment service that does vulnerability and best-practice scanning for AWS applications
     * 1.5 **Amazon GuardDuty:** GuardDuty is a managed threat detection service that is simple to deploy, and scales with your infrastructure
-    * 1.6 **AAWS KMS:** AWS KMS is a secure and resilient service that uses hardware security modules that have been validated under FIPS 140-2
+    * 1.6 **AWS KMS:** AWS KMS is a secure and resilient service that uses hardware security modules that have been validated under FIPS 140-2
     * 1.7 **AWS Shield:** AWS Shield is a managed DDoS protection service. AWS Shield can protect EC2, Load balancers, CloudFront, Global Accelerator, and Route 53 resources
     * 1.8 **AWS Trusted Advisor:** AWS Trusted Advisor is an online tool that provides you real time guidance to help you provision your resources following AWS best practices
     * 1.9 **AWS Config:** AWS Config is a service that enables you to assess, audit, and evaluate the configurations of your AWS resources 
