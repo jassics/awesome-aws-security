@@ -48,7 +48,6 @@ AWS has awesome lists of whitepapers related to AWS Security. We are adding few 
 7. [AWS Cloud Security](https://www.oreilly.com/library/view/aws-cloud-security/9780135174784/) - Oreilly
 8. [Introduction to AWS Security Hub](https://www.youtube.com/watch?v=o0NDi01YPXs) - Youtube
 9. [Solution for flaws.cloud AWS Security Challenge](https://www.youtube.com/watch?v=VDptLO9XYbU&list=PLRTsCutScZnzo3uV_79Dur73kqskfaTMS) - Youtube Playlist
-10. 
 
 ## Online Tutorials/Blogs/Presentations
 1. [AWS Security official blog](https://aws.amazon.com/blogs/security/)
@@ -62,7 +61,7 @@ AWS has awesome lists of whitepapers related to AWS Security. We are adding few 
 9. [A short blog on hacking AWS](https://www.devopsgroup.com/blog/hacking-aws-blog/) - Examples are based on cloudgoat.
 10. [S3 security is flawed by design](https://www.upguard.com/blog/s3-security-is-flawed-by-design) - This article will show you why you need to be extra careful when using AWS S3.
 11. [51 Tips for Security AWS(pdf)](https://www.mcafee.com/enterprise/en-us/assets/skyhigh/white-papers/wp-definitive-guide-to-aws-ebook.pdf) - McAfee
-12. [The rolw of API gateways in API security](https://dzone.com/articles/the-role-of-api-gateways-in-api-security)
+12. [The role of API gateways in API security](https://dzone.com/articles/the-role-of-api-gateways-in-api-security)
 13. [Finding SSRF via HTML Injection inside a PDF file on AWS EC2](https://blog.appsecco.com/finding-ssrf-via-html-injection-inside-a-pdf-file-on-aws-ec2-214cc5ec5d90)
 14. [Getting shell and data access in AWS by chaining vulnerabilities](https://blog.appsecco.com/getting-shell-and-data-access-in-aws-by-chaining-vulnerabilities-7630fa57c7ed)
 
