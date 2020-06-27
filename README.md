@@ -87,6 +87,7 @@ AWS has awesome lists of whitepapers related to AWS Security. We are adding few 
     * 1.10 **Security Hub:** AWS Security Hub gives you a comprehensive view of your high-priority security alerts and security posture across your AWS accounts
     * 1.11 **AWS WAF:** AWS WAF is a web application firewall that helps protect your web applications or APIs against common web exploits that may affect availability, compromise security, or consume excessive resources
     * 1.12 **AWS Macie:** Macie is all about protecting data. It is a machine learning service that watches data access trends and finds anomalies to spot data leaks and unauthorized data access. 
+    * 1.13 **AWS Detective:** Amazon Detective automatically collects log data from your AWS resources and uses machine learning, statistical analysis, and graph theory to build a linked set of data that enables you to easily conduct faster and more efficient security investigations.
 2. [Arsenal of AWS Security Tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) - Collection of all security category tools and products
 3. [AWS Security Automation](https://github.com/awslabs/aws-security-automation) - Collection of scripts and resources for DevSecOps and Automated Incident Response Security
 4. [Security Monkey](https://github.com/Netflix/security_monkey) - Monitors AWS, GCP, OpenStack, and GitHub orgs for assets and their changes over time.
@@ -110,6 +111,7 @@ AWS has awesome lists of whitepapers related to AWS Security. We are adding few 
 5. [OWASP ServerlessGoat](https://github.com/OWASP/Serverless-Goat) - OWASP ServerlessGoat is a deliberately insecure realistic AWS Lambda serverless application maintained by OWASP for educational purposes.
 6. [AWS S3 CTF Challenges with solutions](https://n0j.github.io/2017/10/02/aws-s3-ctf.html)
 7. [AWS CTF with practical scenario](https://r00tz-ctf.awssecworkshops.com/)
+8. [Breaking and Pwning Apps and Servers on AWS and Azure by AppSecCo](https://github.com/appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training)
 
 ## AWS Security Breaches
 1. [AWS Security breaches - 2017](https://www.sumologic.com/blog/aws-security-breaches-2017/)
