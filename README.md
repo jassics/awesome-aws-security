@@ -46,6 +46,8 @@ AWS has awesome lists of whitepapers related to AWS Security. We are adding few 
 5. [AWS Cloud Security Playlist](https://www.youtube.com/watch?v=N4DdqAkeqD4&list=PLxzKY3wu0_FL4VDfuCohtikXTQNTvKQVX) - Youtube
 6. [A cloud security architecture workshop by RSA](https://www.youtube.com/watch?v=4TxvqZFMaoA) - Youtube
 7. [AWS Cloud Security](https://www.oreilly.com/library/view/aws-cloud-security/9780135174784/) - Oreilly
+8. [Introduction to AWS Security Hub](https://www.youtube.com/watch?v=o0NDi01YPXs) - Youtube
+9. [Solution for flaws.cloud AWS Security Challenge](https://www.youtube.com/watch?v=VDptLO9XYbU&list=PLRTsCutScZnzo3uV_79Dur73kqskfaTMS) - Youtube Playlist
 
 ## Online Tutorials/Blogs/Presentations
 1. [AWS Security official blog](https://aws.amazon.com/blogs/security/)
@@ -59,7 +61,9 @@ AWS has awesome lists of whitepapers related to AWS Security. We are adding few 
 9. [A short blog on hacking AWS](https://www.devopsgroup.com/blog/hacking-aws-blog/) - Examples are based on cloudgoat.
 10. [S3 security is flawed by design](https://www.upguard.com/blog/s3-security-is-flawed-by-design) - This article will show you why you need to be extra careful when using AWS S3.
 11. [51 Tips for Security AWS(pdf)](https://www.mcafee.com/enterprise/en-us/assets/skyhigh/white-papers/wp-definitive-guide-to-aws-ebook.pdf) - McAfee
-12. [The rolw of API gateways in API security](https://dzone.com/articles/the-role-of-api-gateways-in-api-security)
+12. [The role of API gateways in API security](https://dzone.com/articles/the-role-of-api-gateways-in-api-security)
+13. [Finding SSRF via HTML Injection inside a PDF file on AWS EC2](https://blog.appsecco.com/finding-ssrf-via-html-injection-inside-a-pdf-file-on-aws-ec2-214cc5ec5d90)
+14. [Getting shell and data access in AWS by chaining vulnerabilities](https://blog.appsecco.com/getting-shell-and-data-access-in-aws-by-chaining-vulnerabilities-7630fa57c7ed)
 
 ## Online Courses (Paid/Free)
 1. [AWS Fundamentals: Address Security Risks](https://www.coursera.org/learn/aws-fundamentals-addressing-security-risk) - Coursera
@@ -111,7 +115,7 @@ AWS has awesome lists of whitepapers related to AWS Security. We are adding few 
 5. [OWASP ServerlessGoat](https://github.com/OWASP/Serverless-Goat) - OWASP ServerlessGoat is a deliberately insecure realistic AWS Lambda serverless application maintained by OWASP for educational purposes.
 6. [AWS S3 CTF Challenges with solutions](https://n0j.github.io/2017/10/02/aws-s3-ctf.html)
 7. [AWS CTF with practical scenario](https://r00tz-ctf.awssecworkshops.com/)
-8. [Breaking and Pwning Apps and Servers on AWS and Azure by AppSecCo](https://github.com/appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training)
+8. [Breaking and Pwning Apps and Servers on AWS and Azure by AppSecCo](https://github.com/appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training) - The training covers a multitude of scenarios taken from our vulnerability assessment, penetration testing and OSINT engagements which take the student through the journey of discovery, identification and exploitation of security weaknesses, misconfigurations and poor programming practices that can lead to complete compromise of the cloud infrastructure.
 
 ## AWS Security Breaches
 1. [AWS Security breaches - 2017](https://www.sumologic.com/blog/aws-security-breaches-2017/)
