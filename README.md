@@ -4,15 +4,6 @@ A common curated list of links, references, books videos, tutorials (Free or
 Paid), Exploit, CTFs, Hacking Practices etc. which are obviously related to AWS Security.
 _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing._
 
-## Books
-1. [Hands-On AWS Penetration Testing with Kali Linux by PackT](https://www.packtpub.com/virtualization-and-cloud/hands-aws-penetration-testing-kali-linux)
-2. [Mastering AWS Security by PackT](https://www.packtpub.com/in/virtualization-and-cloud/mastering-aws-security)
-3. [Security Best Practices on AWS by PackT](https://www.packtpub.com/in/virtualization-and-cloud/aws-security-best-practices-aws)
-4. [Cloud Security Automation](https://www.packtpub.com/in/networking-and-servers/cloud-security-automation)
-5. [AWS Automation Cookbook](https://www.packtpub.com/in/virtualization-and-cloud/aws-automation-cookbook)
-6. [AWS Lambda Security Best Practices](http://www.aliencoders.org/wp-content/uploads/2020/01/AWS-Lambda-Security-eBook-1.pdf) - It's published by Puresec and it has a good overview on AWS Lambda Security Best Practices which we should follow
-7. [AWS Security by Manning](https://www.manning.com/books/aws-security) - Very nice book in Progress, yet to release.
-
 ## AWS Whitepapers
 AWS has awesome lists of whitepapers related to AWS Security. We are adding few important one here. You can anytime check more for updated or new security whitepapers [here](https://aws.amazon.com/security/security-learning/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc)
 
@@ -37,6 +28,15 @@ AWS has awesome lists of whitepapers related to AWS Security. We are adding few 
 19. [Introduction to AWS Security Processes](https://d0.awsstatic.com/whitepapers/Security/Intro_Security_Practices.pdf)
 20. [AWS CIS Foundation benchmark](https://d1.awsstatic.com/whitepapers/compliance/AWS_CIS_Foundations_Benchmark.pdf)
 21. [Security overview of AWS Lambda](https://aws.amazon.com/lambda/security-overview-of-aws-lambda/)
+
+## Books
+1. [Hands-On AWS Penetration Testing with Kali Linux by PackT](https://www.packtpub.com/virtualization-and-cloud/hands-aws-penetration-testing-kali-linux)
+2. [Mastering AWS Security by PackT](https://www.packtpub.com/in/virtualization-and-cloud/mastering-aws-security)
+3. [Security Best Practices on AWS by PackT](https://www.packtpub.com/in/virtualization-and-cloud/aws-security-best-practices-aws)
+4. [Cloud Security Automation](https://www.packtpub.com/in/networking-and-servers/cloud-security-automation)
+5. [AWS Automation Cookbook](https://www.packtpub.com/in/virtualization-and-cloud/aws-automation-cookbook)
+6. [AWS Lambda Security Best Practices](http://www.aliencoders.org/wp-content/uploads/2020/01/AWS-Lambda-Security-eBook-1.pdf) - It's published by Puresec and it has a good overview on AWS Lambda Security Best Practices which we should follow
+7. [AWS Security by Manning](https://www.manning.com/books/aws-security) - Very nice book in Progress, yet to release.
 
 ## Videos
 1. [The fundamentals of AWS Security](https://www.youtube.com/watch?v=-ObImxw1PmI) - Youtube
@@ -64,6 +64,7 @@ AWS has awesome lists of whitepapers related to AWS Security. We are adding few 
 12. [The role of API gateways in API security](https://dzone.com/articles/the-role-of-api-gateways-in-api-security)
 13. [Finding SSRF via HTML Injection inside a PDF file on AWS EC2](https://blog.appsecco.com/finding-ssrf-via-html-injection-inside-a-pdf-file-on-aws-ec2-214cc5ec5d90)
 14. [Getting shell and data access in AWS by chaining vulnerabilities](https://blog.appsecco.com/getting-shell-and-data-access-in-aws-by-chaining-vulnerabilities-7630fa57c7ed)
+15. [Hacking Serverless Runtimes - Blackhat2017](https://www.blackhat.com/docs/us-17/wednesday/us-17-Krug-Hacking-Severless-Runtimes.pdf)
 
 ## Online Courses (Paid/Free)
 1. [AWS Fundamentals: Address Security Risks](https://www.coursera.org/learn/aws-fundamentals-addressing-security-risk) - Coursera
