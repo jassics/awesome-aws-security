@@ -7,6 +7,8 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 ## AWS Whitepapers
 AWS has awesome lists of whitepapers related to AWS Security. We are adding few important one here. You can anytime check more for updated or new security whitepapers [here](https://aws.amazon.com/security/security-learning/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc)
 
+And don't forget to **bookmark AWS Security bulletin** for new vulenrabilities news from [here](https://aws.amazon.com/security/security-bulletins/)
+
 1. [AWS Overview](https://d1.awsstatic.com/whitepapers/aws-overview.pdf) - One of the important whitepaper to understand an overview of AWS
 2. [AWS Security Best Practices](http://d0.awsstatic.com/whitepapers/Security/AWS_Security_Best_Practices.pdf)
 3. [AWS Security Pillar](https://d1.awsstatic.com/whitepapers/architecture/AWS-Security-Pillar.pdf)
@@ -118,6 +120,10 @@ AWS has awesome lists of whitepapers related to AWS Security. We are adding few 
 6. [AWS S3 CTF Challenges with solutions](https://n0j.github.io/2017/10/02/aws-s3-ctf.html)
 7. [AWS CTF with practical scenario](https://r00tz-ctf.awssecworkshops.com/)
 8. [Breaking and Pwning Apps and Servers on AWS and Azure by AppSecCo](https://github.com/appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training) - The training covers a multitude of scenarios taken from our vulnerability assessment, penetration testing and OSINT engagements which take the student through the journey of discovery, identification and exploitation of security weaknesses, misconfigurations and poor programming practices that can lead to complete compromise of the cloud infrastructure.
+
+## AWS Security Bulleting Important Issues
+1. [Container Networking Security Issue (CVE-2020-8558)](This issue may allow containers running on the same host, or adjacent hosts (hosts running in the same LAN or layer 2 domain), to reach TCP and UDP services bound to localhost (127.0.0.1))
+2. [Minimum Version of TLS 1.2 Required for FIPS Endpoints by March 31, 2021](https://aws.amazon.com/security/security-bulletins/AWS-2020-001/)
 
 ## AWS Security Breaches
 1. [AWS Security breaches - 2017](https://www.sumologic.com/blog/aws-security-breaches-2017/)
