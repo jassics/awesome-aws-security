@@ -77,6 +77,7 @@ AWS has awesome lists of whitepapers related to AWS Security. We are adding few 
 8. [Practical Event Driven Security with AWS](https://acloud.guru/learn/practical-event-driven-security-with-aws) - Acloud.guru
 9. [Learning Path for AWS Security](https://learn.acloud.guru/learning-path/aws-security) - Nicely designed the learning path who wants to be an AWS Security Experts from Acloud.guru
 10. [Cloud Hacking course](https://www.notsosecure.com/hacking-training/cloud-hacking/) - From NotSoSercure
+11. [Breaking and Pwning Apps and Servers in AWS and Azure](https://github.com/appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training) - Previously an instructor led training now released as free and open source courseware for Cloud Pentesters 
 
 ## Tools of Trade
 1. [AWS Security Products - Official](https://aws.amazon.com/products/security/) - Few Important tools that you should consider are:
