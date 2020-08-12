@@ -122,8 +122,12 @@ And don't forget to **bookmark AWS Security bulletin** for new vulenrabilities n
 8. [Breaking and Pwning Apps and Servers on AWS and Azure by AppSecCo](https://github.com/appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training) - The training covers a multitude of scenarios taken from our vulnerability assessment, penetration testing and OSINT engagements which take the student through the journey of discovery, identification and exploitation of security weaknesses, misconfigurations and poor programming practices that can lead to complete compromise of the cloud infrastructure.
 
 ## AWS Security Bulleting Important Issues
-1. [Container Networking Security Issue (CVE-2020-8558)](This issue may allow containers running on the same host, or adjacent hosts (hosts running in the same LAN or layer 2 domain), to reach TCP and UDP services bound to localhost (127.0.0.1))
+1. [Container Networking Security Issue ([CVE-2020-8558](https://nvd.nist.gov/vuln/detail/CVE-2020-8558))](This issue may allow containers running on the same host, or adjacent hosts (hosts running in the same LAN or layer 2 domain), to reach TCP and UDP services bound to localhost (127.0.0.1))
 2. [Minimum Version of TLS 1.2 Required for FIPS Endpoints by March 31, 2021](https://aws.amazon.com/security/security-bulletins/AWS-2020-001/)
+3. [Unencrypted md5 plaintext hash in metadata in AWS S3 Crypto SDK for golang](https://github.com/google/security-research/security/advisories/GHSA-76wf-9vgp-pj7w) 
+4. [CBC padding oracle issue in AWS S3 Crypto SDK for golang](https://github.com/google/security-research/security/advisories/GHSA-f5pg-7wfw-84q9) : [CVE-2020-8911](https://nvd.nist.gov/vuln/detail/CVE-2020-8911)
+5. [In-band key negotiation issue in AWS S3 Crypto SDK for golang](https://github.com/google/security-research/security/advisories/GHSA-7f33-f4f5-xwgw) : [CVE-2020-8912](https://nvd.nist.gov/vuln/detail/CVE-2020-8912)
+6. [CVE-2018-15869](https://nvd.nist.gov/vuln/detail/CVE-2018-15869): An Amazon Web Services (AWS) developer who does not specify the --owners flag when describing images via AWS CLI, and therefore not properly validating source software per AWS recommended security best practices, may unintentionally load an undesired and potentially malicious Amazon Machine Image (AMI) from the uncurated public community AMI catalog.
 
 ## AWS Security Breaches
 1. [AWS Security breaches - 2017](https://www.sumologic.com/blog/aws-security-breaches-2017/)
