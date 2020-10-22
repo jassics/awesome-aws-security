@@ -10,7 +10,7 @@ AWS has awesome lists of whitepapers related to AWS Security. We are adding few 
 And don't forget to **bookmark AWS Security bulletin** for new vulenrabilities news from [here](https://aws.amazon.com/security/security-bulletins/)
 
 1. [AWS Overview](https://d1.awsstatic.com/whitepapers/aws-overview.pdf) - One of the important whitepaper to understand an overview of AWS
-2. [AWS Security Best Practices](http://d0.awsstatic.com/whitepapers/Security/AWS_Security_Best_Practices.pdf)
+2. ~~[AWS Security Best Practices]~~(http://d0.awsstatic.com/whitepapers/Security/AWS_Security_Best_Practices.pdf)
 3. [AWS Security Pillar](https://d1.awsstatic.com/whitepapers/architecture/AWS-Security-Pillar.pdf)
 4. [Introduction to Security By Design](https://d1.awsstatic.com/whitepapers/compliance/Intro_to_Security_by_Design.pdf)
 5. [AWS Overview of Security Processes](https://d0.awsstatic.com/whitepapers/aws-security-whitepaper.pdf)
@@ -27,7 +27,7 @@ And don't forget to **bookmark AWS Security bulletin** for new vulenrabilities n
 16. [AWS Cloud Adoption Framework](https://d1.awsstatic.com/whitepapers/aws_cloud_adoption_framework.pdf)
 17. [AWS CAF Security perspective](https://d1.awsstatic.com/whitepapers/AWS_CAF_Security_Perspective.pdf)
 18. [AWS Auditing Security Checklist](https://d1.awsstatic.com/whitepapers/compliance/AWS_Auditing_Security_Checklist.pdf)
-19. [Introduction to AWS Security Processes](https://d0.awsstatic.com/whitepapers/Security/Intro_Security_Practices.pdf)
+19. ~~[Introduction to AWS Security Processes]~~(https://d0.awsstatic.com/whitepapers/Security/Intro_Security_Practices.pdf)
 20. [AWS CIS Foundation benchmark](https://d1.awsstatic.com/whitepapers/compliance/AWS_CIS_Foundations_Benchmark.pdf)
 21. [Security overview of AWS Lambda](https://aws.amazon.com/lambda/security-overview-of-aws-lambda/)
 
