@@ -138,6 +138,7 @@ And don't forget to **bookmark AWS Security bulletin** for new vulenrabilities n
 4. [Tesla's Amazon cloud account was hacked and used to mine cryptocurrency](https://www.businessinsider.in/finance/teslas-amazon-cloud-account-was-hacked-and-used-to-mine-cryptocurrency/articleshow/63003345.cms)
 5. [10 worst Amazon S3 breaches](https://businessinsights.bitdefender.com/worst-amazon-breaches)
 6. [Lion Air the Latest to Get Tripped Up by Misconfigured AWS S3](https://www.darkreading.com/attacks-breaches/lion-air-the-latest-to-get-tripped-up-by-misconfigured-aws-s3-/d/d-id/1335864)
+7. [Online Fashion App 21 buttons Exposes Financial Records of Top European Influencers due to S3 misconfiguration](https://www.vpnmentor.com/blog/report-21-buttons-breach/)
 
 ## Contributors
 [Please refer the guidelines at contribute.md for details](Contribute.md).
