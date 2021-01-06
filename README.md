@@ -4,6 +4,19 @@ A common curated list of links, references, books videos, tutorials (Free or
 Paid), Exploit, CTFs, Hacking Practices etc. which are obviously related to AWS Security.
 _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing._
 
+## Table of Contents
+[1. AWS Whitepapers](##AWS-Whitepapers)  
+[2. Books](#Books)  
+[3. Videos](#Videos)  
+[4. Online Tutorials/Blogs/Presentations](#Online-Tutorials/Blogs/Presentations)  
+[5. Online Courses (Paid/Free)](#Online-Courses-(Paid/Free))  
+[6. Tools of Trade](#Tools-of-Trade)  
+[7. Security Practice and CTFs](#Security-Practice-and-CTFs)  
+[8. AWS Security Bulleting Important Issues](#AWS-Security-Bulleting-Important-Issues)  
+[9. AWS Security Breaches](#AWS-Security-Breaches)  
+[10. Contributors](#Contributors)
+  
+
 ## AWS Whitepapers
 AWS has awesome lists of whitepapers related to AWS Security. We are adding few important one here. You can anytime check more for updated or new security whitepapers [here](https://aws.amazon.com/security/security-learning/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc)
 
