@@ -23,7 +23,7 @@ AWS has awesome lists of whitepapers related to AWS Security. We are adding few 
 And don't forget to **bookmark AWS Security bulletin** for new vulenrabilities news from [here](https://aws.amazon.com/security/security-bulletins/)
 
 1. [AWS Overview](https://d1.awsstatic.com/whitepapers/aws-overview.pdf) - One of the important whitepaper to understand an overview of AWS
-2. [AWS Security Best Practices](http://d0.awsstatic.com/whitepapers/Security/AWS_Security_Best_Practices.pdf)
+2. ~~[AWS Security Best Practices]~~(http://d0.awsstatic.com/whitepapers/Security/AWS_Security_Best_Practices.pdf)
 3. [AWS Security Pillar](https://d1.awsstatic.com/whitepapers/architecture/AWS-Security-Pillar.pdf)
 4. [Introduction to Security By Design](https://d1.awsstatic.com/whitepapers/compliance/Intro_to_Security_by_Design.pdf)
 5. [AWS Overview of Security Processes](https://d0.awsstatic.com/whitepapers/aws-security-whitepaper.pdf)
@@ -40,7 +40,7 @@ And don't forget to **bookmark AWS Security bulletin** for new vulenrabilities n
 16. [AWS Cloud Adoption Framework](https://d1.awsstatic.com/whitepapers/aws_cloud_adoption_framework.pdf)
 17. [AWS CAF Security perspective](https://d1.awsstatic.com/whitepapers/AWS_CAF_Security_Perspective.pdf)
 18. [AWS Auditing Security Checklist](https://d1.awsstatic.com/whitepapers/compliance/AWS_Auditing_Security_Checklist.pdf)
-19. [Introduction to AWS Security Processes](https://d0.awsstatic.com/whitepapers/Security/Intro_Security_Practices.pdf)
+19. ~~[Introduction to AWS Security Processes]~~(https://d0.awsstatic.com/whitepapers/Security/Intro_Security_Practices.pdf)
 20. [AWS CIS Foundation benchmark](https://d1.awsstatic.com/whitepapers/compliance/AWS_CIS_Foundations_Benchmark.pdf)
 21. [Security overview of AWS Lambda](https://aws.amazon.com/lambda/security-overview-of-aws-lambda/)
 
@@ -52,6 +52,7 @@ And don't forget to **bookmark AWS Security bulletin** for new vulenrabilities n
 5. [AWS Automation Cookbook](https://www.packtpub.com/in/virtualization-and-cloud/aws-automation-cookbook)
 6. [AWS Lambda Security Best Practices](http://www.aliencoders.org/wp-content/uploads/2020/01/AWS-Lambda-Security-eBook-1.pdf) - It's published by Puresec and it has a good overview on AWS Lambda Security Best Practices which we should follow
 7. [AWS Security by Manning](https://www.manning.com/books/aws-security) - Very nice book in Progress, yet to release.
+8. [Securing DevOps](https://www.manning.com/books/securing-devops) - A book which has real-world examples for Cloud Security. Must read book for any Cloud Security Professionals.
 
 ## Videos
 1. [The fundamentals of AWS Security](https://www.youtube.com/watch?v=-ObImxw1PmI) - Youtube
@@ -109,6 +110,7 @@ And don't forget to **bookmark AWS Security bulletin** for new vulenrabilities n
     * 1.11 **AWS WAF:** AWS WAF is a web application firewall that helps protect your web applications or APIs against common web exploits that may affect availability, compromise security, or consume excessive resources
     * 1.12 **AWS Macie:** Macie is all about protecting data. It is a machine learning service that watches data access trends and finds anomalies to spot data leaks and unauthorized data access. 
     * 1.13 **AWS Detective:** Amazon Detective automatically collects log data from your AWS resources and uses machine learning, statistical analysis, and graph theory to build a linked set of data that enables you to easily conduct faster and more efficient security investigations.
+    * 1.14 **AWS Conformance Packs:** A conformance pack is a collection of AWS Config rules and remediation actions that can be easily deployed as a single entity in an account and a Region or across an organization in AWS Organizations. [conformance packs on github](https://github.com/awslabs/aws-config-rules/tree/master/aws-config-conformance-packs)
 2. [Arsenal of AWS Security Tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) - Collection of all security category tools and products
 3. [AWS Security Automation](https://github.com/awslabs/aws-security-automation) - Collection of scripts and resources for DevSecOps and Automated Incident Response Security
 4. [Security Monkey](https://github.com/Netflix/security_monkey) - Monitors AWS, GCP, OpenStack, and GitHub orgs for assets and their changes over time.
@@ -149,6 +151,7 @@ And don't forget to **bookmark AWS Security bulletin** for new vulenrabilities n
 4. [Tesla's Amazon cloud account was hacked and used to mine cryptocurrency](https://www.businessinsider.in/finance/teslas-amazon-cloud-account-was-hacked-and-used-to-mine-cryptocurrency/articleshow/63003345.cms)
 5. [10 worst Amazon S3 breaches](https://businessinsights.bitdefender.com/worst-amazon-breaches)
 6. [Lion Air the Latest to Get Tripped Up by Misconfigured AWS S3](https://www.darkreading.com/attacks-breaches/lion-air-the-latest-to-get-tripped-up-by-misconfigured-aws-s3-/d/d-id/1335864)
+7. [Online Fashion App 21 buttons Exposes Financial Records of Top European Influencers due to S3 misconfiguration](https://www.vpnmentor.com/blog/report-21-buttons-breach/)
 
 ## Contributors
 [Please refer the guidelines at contribute.md for details](Contribute.md).
