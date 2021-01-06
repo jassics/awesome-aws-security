@@ -5,11 +5,11 @@ Paid), Exploit, CTFs, Hacking Practices etc. which are obviously related to AWS 
 _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing._
 
 ## Table of Contents
-[1. AWS Whitepapers](##AWS-Whitepapers)  
+[1. AWS Whitepapers](#AWS-Whitepapers)  
 [2. Books](#Books)  
 [3. Videos](#Videos)  
-[4. Online Tutorials/Blogs/Presentations](#Online-Tutorials/Blogs/Presentations)  
-[5. Online Courses (Paid/Free)](#Online-Courses-(Paid/Free))  
+[4. Online Tutorials/Blogs/Presentations](#Online-TutorialsBlogsPresentations)  
+[5. Online Courses (Paid/Free)](#Online-Courses-Paid/Free)  
 [6. Tools of Trade](#Tools-of-Trade)  
 [7. Security Practice and CTFs](#Security-Practice-and-CTFs)  
 [8. AWS Security Bulleting Important Issues](#AWS-Security-Bulleting-Important-Issues)  
@@ -152,6 +152,8 @@ And don't forget to **bookmark AWS Security bulletin** for new vulenrabilities n
 5. [10 worst Amazon S3 breaches](https://businessinsights.bitdefender.com/worst-amazon-breaches)
 6. [Lion Air the Latest to Get Tripped Up by Misconfigured AWS S3](https://www.darkreading.com/attacks-breaches/lion-air-the-latest-to-get-tripped-up-by-misconfigured-aws-s3-/d/d-id/1335864)
 7. [Online Fashion App 21 buttons Exposes Financial Records of Top European Influencers due to S3 misconfiguration](https://www.vpnmentor.com/blog/report-21-buttons-breach/)
+8. [Capital One Cloud data breach due to S3 misconfiguration](https://rhinosecuritylabs.com/aws/capital-one-cloud_breach_s3-cloudgoat/)
+9. [Online Fashion App 21 buttons Exposes Financial Records of Top European Influencers](https://www.vpnmentor.com/blog/report-21-buttons-breach/)
 
 ## Contributors
 [Please refer the guidelines at contribute.md for details](Contribute.md).
