@@ -9,7 +9,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 [2. Books](#Books)  
 [3. Videos](#Videos)  
 [4. Online Tutorials/Blogs/Presentations](#Online-TutorialsBlogsPresentations)  
-[5. Online Courses (Paid/Free)](#Online-Courses-Paid/Free)  
+[5. Online Courses (Paid/Free)](#Online-Courses-PaidFree)  
 [6. Tools of Trade](#Tools-of-Trade)  
 [7. Security Practice and CTFs](#Security-Practice-and-CTFs)  
 [8. AWS Security Bulleting Important Issues](#AWS-Security-Bulleting-Important-Issues)  
