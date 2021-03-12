@@ -15,7 +15,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 [8. AWS Security Bulleting Important Issues](#AWS-Security-Bulleting-Important-Issues)  
 [9. AWS Security Breaches](#AWS-Security-Breaches)  
 [10. Contributors](#Contributors)
-  
+
 
 ## AWS Whitepapers
 AWS has awesome lists of whitepapers related to AWS Security. We are adding few important one here. You can anytime check more for updated or new security whitepapers [here](https://aws.amazon.com/security/security-learning/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc)
@@ -64,6 +64,7 @@ And don't forget to **bookmark AWS Security bulletin** for new vulenrabilities n
 7. [AWS Cloud Security](https://www.oreilly.com/library/view/aws-cloud-security/9780135174784/) - Oreilly
 8. [Introduction to AWS Security Hub](https://www.youtube.com/watch?v=o0NDi01YPXs) - Youtube
 9. [Solution for flaws.cloud AWS Security Challenge](https://www.youtube.com/watch?v=VDptLO9XYbU&list=PLRTsCutScZnzo3uV_79Dur73kqskfaTMS) - Youtube Playlist
+10. [AWS Security Best Practice: Well-Architected way](https://www.youtube.com/watch?v=u6BCVkXkPnM) - Youtube
 
 ## Online Tutorials/Blogs/Presentations
 1. [AWS Security official blog](https://aws.amazon.com/blogs/security/)
@@ -81,6 +82,7 @@ And don't forget to **bookmark AWS Security bulletin** for new vulenrabilities n
 13. [Finding SSRF via HTML Injection inside a PDF file on AWS EC2](https://blog.appsecco.com/finding-ssrf-via-html-injection-inside-a-pdf-file-on-aws-ec2-214cc5ec5d90)
 14. [Getting shell and data access in AWS by chaining vulnerabilities](https://blog.appsecco.com/getting-shell-and-data-access-in-aws-by-chaining-vulnerabilities-7630fa57c7ed)
 15. [Hacking Serverless Runtimes - Blackhat2017](https://www.blackhat.com/docs/us-17/wednesday/us-17-Krug-Hacking-Severless-Runtimes.pdf)
+16. [Detailed blog on ConsoleMe: A Central Control Plane for AWS Permissions and Access by Netflix](https://netflixtechblog.com/consoleme-a-central-control-plane-for-aws-permissions-and-access-fd09afdd60a8)
 
 ## Online Courses (Paid/Free)
 1. [AWS Fundamentals: Address Security Risks](https://www.coursera.org/learn/aws-fundamentals-addressing-security-risk) - Coursera
@@ -93,27 +95,27 @@ And don't forget to **bookmark AWS Security bulletin** for new vulenrabilities n
 8. [Practical Event Driven Security with AWS](https://acloud.guru/learn/practical-event-driven-security-with-aws) - Acloud.guru
 9. [Learning Path for AWS Security](https://learn.acloud.guru/learning-path/aws-security) - Nicely designed the learning path who wants to be an AWS Security Experts from Acloud.guru
 10. [Cloud Hacking course](https://www.notsosecure.com/hacking-training/cloud-hacking/) - From NotSoSercure
-11. [Breaking and Pwning Apps and Servers in AWS and Azure](https://github.com/appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training) - Previously an instructor led training now released as free and open source courseware for Cloud Pentesters 
+11. [Breaking and Pwning Apps and Servers in AWS and Azure](https://github.com/appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training) - Previously an instructor led training now released as free and open source courseware for Cloud Pentesters
 
 ## Tools of Trade
 1. [AWS Security Products - Official](https://aws.amazon.com/products/security/) - Few Important tools that you should consider are:
     * 1.1 **AWS IAM:** AWS Identity and Access Management (IAM) enables you to manage access to AWS services and resources securely
     * 1.2 **CloudWatch:** CloudWatch is the AWS monitoring tool
-    * 1.3 **CloudTrail:** AWS CloudTrail is a service that enables governance, compliance, operational auditing, and risk auditing of your AWS account 
+    * 1.3 **CloudTrail:** AWS CloudTrail is a service that enables governance, compliance, operational auditing, and risk auditing of your AWS account
     * 1.4 **AWS Inspector:** AWS inspector is a security assessment service that does vulnerability and best-practice scanning for AWS applications
     * 1.5 **Amazon GuardDuty:** GuardDuty is a managed threat detection service that is simple to deploy, and scales with your infrastructure
     * 1.6 **AWS KMS:** AWS KMS is a secure and resilient service that uses hardware security modules that have been validated under FIPS 140-2
     * 1.7 **AWS Shield:** AWS Shield is a managed DDoS protection service. AWS Shield can protect EC2, Load balancers, CloudFront, Global Accelerator, and Route 53 resources
     * 1.8 **AWS Trusted Advisor:** AWS Trusted Advisor is an online tool that provides you real time guidance to help you provision your resources following AWS best practices
-    * 1.9 **AWS Config:** AWS Config is a service that enables you to assess, audit, and evaluate the configurations of your AWS resources 
+    * 1.9 **AWS Config:** AWS Config is a service that enables you to assess, audit, and evaluate the configurations of your AWS resources
     * 1.10 **Security Hub:** AWS Security Hub gives you a comprehensive view of your high-priority security alerts and security posture across your AWS accounts
     * 1.11 **AWS WAF:** AWS WAF is a web application firewall that helps protect your web applications or APIs against common web exploits that may affect availability, compromise security, or consume excessive resources
-    * 1.12 **AWS Macie:** Macie is all about protecting data. It is a machine learning service that watches data access trends and finds anomalies to spot data leaks and unauthorized data access. 
+    * 1.12 **AWS Macie:** Macie is all about protecting data. It is a machine learning service that watches data access trends and finds anomalies to spot data leaks and unauthorized data access.
     * 1.13 **AWS Detective:** Amazon Detective automatically collects log data from your AWS resources and uses machine learning, statistical analysis, and graph theory to build a linked set of data that enables you to easily conduct faster and more efficient security investigations.
     * 1.14 **AWS Conformance Packs:** A conformance pack is a collection of AWS Config rules and remediation actions that can be easily deployed as a single entity in an account and a Region or across an organization in AWS Organizations. [conformance packs on github](https://github.com/awslabs/aws-config-rules/tree/master/aws-config-conformance-packs)
 2. [Arsenal of AWS Security Tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) - Collection of all security category tools and products
 3. [AWS Security Automation](https://github.com/awslabs/aws-security-automation) - Collection of scripts and resources for DevSecOps and Automated Incident Response Security
-4. [Security Monkey](https://github.com/Netflix/security_monkey) - Monitors AWS, GCP, OpenStack, and GitHub orgs for assets and their changes over time.
+4. ~~[Security Monkey]~~(https://github.com/Netflix/security_monkey) - Monitors AWS, GCP, OpenStack, and GitHub orgs for assets and their changes over time.
 5. [truffleHog](https://github.com/dxa4481/truffleHog) - Searches through git repositories for high entropy strings and secrets, digging deep into commit history
 6. [gitleaks](https://github.com/zricethezav/gitleaks) - Audit git repos for secrets
 7. [AWS Security Benchmark](https://github.com/awslabs/aws-security-benchmark) - Open source demos, concept and guidance related to the AWS CIS Foundation framework.
@@ -125,9 +127,10 @@ And don't forget to **bookmark AWS Security bulletin** for new vulenrabilities n
 13. [Pacu](https://github.com/RhinoSecurityLabs/pacu) - AWS Penetration Testing Toolkits
 14. [Zeus](https://github.com/DenizParlak/Zeus) - AWS Auditing and Hardening tool
 15. [Cloud Mapper](https://github.com/duo-labs/cloudmapper) - Analyze your AWS environments (Python)
+16. [ConsoleMe](https://github.com/Netflix/consoleme) - A Central Control Plane for AWS Permissions and Access
 
 ## Security Practice and CTFs
-1. [AWS Well Architected Security Labs](https://wellarchitectedlabs.com/Security/README.html)
+1. [AWS Well Architected Security Labs](https://wellarchitectedlabs.com/security/)
 2. [Flaws to learn common mistakes in AWS through challenge](http://flaws.cloud/)
 3. [Flaws2 focuses on AWS security concepts through various challenge levels](http://flaws2.cloud/)
 4. [CloudGoat](https://github.com/RhinoSecurityLabs/cloudgoat) - Vulnerable by Design AWS infrastructure setup tool
@@ -135,11 +138,12 @@ And don't forget to **bookmark AWS Security bulletin** for new vulenrabilities n
 6. [AWS S3 CTF Challenges with solutions](https://n0j.github.io/2017/10/02/aws-s3-ctf.html)
 7. [AWS CTF with practical scenario](https://r00tz-ctf.awssecworkshops.com/)
 8. [Breaking and Pwning Apps and Servers on AWS and Azure by AppSecCo](https://github.com/appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training) - The training covers a multitude of scenarios taken from our vulnerability assessment, penetration testing and OSINT engagements which take the student through the journey of discovery, identification and exploitation of security weaknesses, misconfigurations and poor programming practices that can lead to complete compromise of the cloud infrastructure.
+9. [AWS Workshop](https://awsworkshop.io/) - This is not exactly security part, but would be helpful to understand AWS with this workshop examples.
 
 ## AWS Security Bulleting Important Issues
-1. [Container Networking Security Issue ([CVE-2020-8558](https://nvd.nist.gov/vuln/detail/CVE-2020-8558))](This issue may allow containers running on the same host, or adjacent hosts (hosts running in the same LAN or layer 2 domain), to reach TCP and UDP services bound to localhost (127.0.0.1))
+1. [Container Networking Security Issue ([CVE-2020-8558])](https://nvd.nist.gov/vuln/detail/CVE-2020-8558) (This issue may allow containers running on the same host, or adjacent hosts (hosts running in the same LAN or layer 2 domain), to reach TCP and UDP services bound to localhost (127.0.0.1))
 2. [Minimum Version of TLS 1.2 Required for FIPS Endpoints by March 31, 2021](https://aws.amazon.com/security/security-bulletins/AWS-2020-001/)
-3. [Unencrypted md5 plaintext hash in metadata in AWS S3 Crypto SDK for golang](https://github.com/google/security-research/security/advisories/GHSA-76wf-9vgp-pj7w) 
+3. [Unencrypted md5 plaintext hash in metadata in AWS S3 Crypto SDK for golang](https://github.com/google/security-research/security/advisories/GHSA-76wf-9vgp-pj7w)
 4. [CBC padding oracle issue in AWS S3 Crypto SDK for golang](https://github.com/google/security-research/security/advisories/GHSA-f5pg-7wfw-84q9) : [CVE-2020-8911](https://nvd.nist.gov/vuln/detail/CVE-2020-8911)
 5. [In-band key negotiation issue in AWS S3 Crypto SDK for golang](https://github.com/google/security-research/security/advisories/GHSA-7f33-f4f5-xwgw) : [CVE-2020-8912](https://nvd.nist.gov/vuln/detail/CVE-2020-8912)
 6. [CVE-2018-15869](https://nvd.nist.gov/vuln/detail/CVE-2018-15869): An Amazon Web Services (AWS) developer who does not specify the --owners flag when describing images via AWS CLI, and therefore not properly validating source software per AWS recommended security best practices, may unintentionally load an undesired and potentially malicious Amazon Machine Image (AMI) from the uncurated public community AMI catalog.
