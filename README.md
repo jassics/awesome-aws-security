@@ -72,17 +72,18 @@ And don't forget to **bookmark AWS Security bulletin** for new vulenrabilities n
 3. [Why the CIA trusts AWS](https://mediatemple.net/blog/tips/aws-building-blocks/)
 4. [Fundamentals of AWS Security](https://www.slideshare.net/AmazonWebServices/fundamentals-of-aws-security) - Presentation from AWS
 5. [AWS Security primer](https://cloudonaut.io/aws-security-primer/) - Nice overview and quick run through AWS Security resources.
-6. [How a whitehat hacker earned $1500 in 15 minutes due to AWS S3 misconfiguration](https://medium.com/@protector47/how-i-earned-1-500-in-just-15-mins-due-to-amazon-s3-bucket-misconfiguration-953b28242f95) - It was fun going through the blog. You can learn from this article too.
-7. [A deep dive into AWS S3 access control](https://labs.detectify.com/2017/07/13/a-deep-dive-into-aws-s3-access-controls-taking-full-control-over-your-assets/) - It will give a very good grip on how S3 buckets can be exploited. Lengthy but worth to go through.
-8. [How Federico hacked a whole EC2 network during a penetration test](https://www.secsignal.org/en/news/how-i-hacked-a-whole-ec2-network-during-a-penetration-test/)
-9. [A short blog on hacking AWS](https://www.devopsgroup.com/blog/hacking-aws-blog/) - Examples are based on cloudgoat.
-10. [S3 security is flawed by design](https://www.upguard.com/blog/s3-security-is-flawed-by-design) - This article will show you why you need to be extra careful when using AWS S3.
-11. [51 Tips for Security AWS(pdf)](https://www.mcafee.com/enterprise/en-us/assets/skyhigh/white-papers/wp-definitive-guide-to-aws-ebook.pdf) - McAfee
-12. [The role of API gateways in API security](https://dzone.com/articles/the-role-of-api-gateways-in-api-security)
-13. [Finding SSRF via HTML Injection inside a PDF file on AWS EC2](https://blog.appsecco.com/finding-ssrf-via-html-injection-inside-a-pdf-file-on-aws-ec2-214cc5ec5d90)
-14. [Getting shell and data access in AWS by chaining vulnerabilities](https://blog.appsecco.com/getting-shell-and-data-access-in-aws-by-chaining-vulnerabilities-7630fa57c7ed)
-15. [Hacking Serverless Runtimes - Blackhat2017](https://www.blackhat.com/docs/us-17/wednesday/us-17-Krug-Hacking-Severless-Runtimes.pdf)
-16. [Detailed blog on ConsoleMe: A Central Control Plane for AWS Permissions and Access by Netflix](https://netflixtechblog.com/consoleme-a-central-control-plane-for-aws-permissions-and-access-fd09afdd60a8)
+6. [AWS Security Blog](https://aws.amazon.com/blogs/security/)
+7. [How a whitehat hacker earned $1500 in 15 minutes due to AWS S3 misconfiguration](https://medium.com/@protector47/how-i-earned-1-500-in-just-15-mins-due-to-amazon-s3-bucket-misconfiguration-953b28242f95) - It was fun going through the blog. You can learn from this article too.
+8. [A deep dive into AWS S3 access control](https://labs.detectify.com/2017/07/13/a-deep-dive-into-aws-s3-access-controls-taking-full-control-over-your-assets/) - It will give a very good grip on how S3 buckets can be exploited. Lengthy but worth to go through.
+9. [How Federico hacked a whole EC2 network during a penetration test](https://www.secsignal.org/en/news/how-i-hacked-a-whole-ec2-network-during-a-penetration-test/)
+10. [A short blog on hacking AWS](https://www.devopsgroup.com/blog/hacking-aws-blog/) - Examples are based on cloudgoat.
+11. [S3 security is flawed by design](https://www.upguard.com/blog/s3-security-is-flawed-by-design) - This article will show you why you need to be extra careful when using AWS S3.
+12. [51 Tips for Security AWS(pdf)](https://www.mcafee.com/enterprise/en-us/assets/skyhigh/white-papers/wp-definitive-guide-to-aws-ebook.pdf) - McAfee
+13. [The role of API gateways in API security](https://dzone.com/articles/the-role-of-api-gateways-in-api-security)
+14. [Finding SSRF via HTML Injection inside a PDF file on AWS EC2](https://blog.appsecco.com/finding-ssrf-via-html-injection-inside-a-pdf-file-on-aws-ec2-214cc5ec5d90)
+15. [Getting shell and data access in AWS by chaining vulnerabilities](https://blog.appsecco.com/getting-shell-and-data-access-in-aws-by-chaining-vulnerabilities-7630fa57c7ed)
+16. [Hacking Serverless Runtimes - Blackhat2017](https://www.blackhat.com/docs/us-17/wednesday/us-17-Krug-Hacking-Severless-Runtimes.pdf)
+17. [Detailed blog on ConsoleMe: A Central Control Plane for AWS Permissions and Access by Netflix](https://netflixtechblog.com/consoleme-a-central-control-plane-for-aws-permissions-and-access-fd09afdd60a8)
 
 ## Online Courses (Paid/Free)
 1. [AWS Fundamentals: Address Security Risks](https://www.coursera.org/learn/aws-fundamentals-addressing-security-risk) - Coursera
@@ -138,7 +139,8 @@ And don't forget to **bookmark AWS Security bulletin** for new vulenrabilities n
 6. [AWS S3 CTF Challenges with solutions](https://n0j.github.io/2017/10/02/aws-s3-ctf.html)
 7. [AWS CTF with practical scenario](https://r00tz-ctf.awssecworkshops.com/)
 8. [Breaking and Pwning Apps and Servers on AWS and Azure by AppSecCo](https://github.com/appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training) - The training covers a multitude of scenarios taken from our vulnerability assessment, penetration testing and OSINT engagements which take the student through the journey of discovery, identification and exploitation of security weaknesses, misconfigurations and poor programming practices that can lead to complete compromise of the cloud infrastructure.
-9. [AWS Workshop](https://awsworkshop.io/) - This is not exactly security part, but would be helpful to understand AWS with this workshop examples.
+9. [AWS Workshop official](https://awsworkshop.io/) - This is not exactly security part, but would be helpful to understand AWS with this workshop examples.
+10. [AWS Security Workshops](https://awssecworkshops.com/) by AWS
 
 ## AWS Security Bulleting Important Issues
 1. [Container Networking Security Issue ([CVE-2020-8558])](https://nvd.nist.gov/vuln/detail/CVE-2020-8558) (This issue may allow containers running on the same host, or adjacent hosts (hosts running in the same LAN or layer 2 domain), to reach TCP and UDP services bound to localhost (127.0.0.1))
