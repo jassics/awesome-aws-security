@@ -20,29 +20,27 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 ## AWS Whitepapers
 AWS has awesome lists of whitepapers related to AWS Security. We are adding few important one here. You can anytime check more for updated or new security whitepapers [here](https://aws.amazon.com/security/security-learning/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc)
 
-And don't forget to **bookmark AWS Security bulletin** for new vulenrabilities news from [here](https://aws.amazon.com/security/security-bulletins/)
+And don't forget to **bookmark AWS Security bulletin** for new vulnerabilities news from [here](https://aws.amazon.com/security/security-bulletins/)
 
 1. [AWS Overview](https://d1.awsstatic.com/whitepapers/aws-overview.pdf) - One of the important whitepaper to understand an overview of AWS
-2. ~~[AWS Security Best Practices]~~(http://d0.awsstatic.com/whitepapers/Security/AWS_Security_Best_Practices.pdf)
-3. [AWS Security Pillar](https://d1.awsstatic.com/whitepapers/architecture/AWS-Security-Pillar.pdf)
+2. [Introduction to AWS Security Whitepaper](https://docs.aws.amazon.com/whitepapers/latest/introduction-aws-security/introduction-aws-security.pdf)
+3. [AWS Well-Architected Security Pillar](https://docs.aws.amazon.com/wellarchitected/latest/security-pillar/wellarchitected-security-pillar.pdf)
 4. [Introduction to Security By Design](https://d1.awsstatic.com/whitepapers/compliance/Intro_to_Security_by_Design.pdf)
-5. [AWS Overview of Security Processes](https://d0.awsstatic.com/whitepapers/aws-security-whitepaper.pdf)
-6. [AWS Well Architected Framework](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf)
-7. [NIST Cybersecurity Framework](https://d0.awsstatic.com/whitepapers/compliance/NIST_Cybersecurity_Framework_CSF.pdf)
-8. [AWS Risk And Compliance](https://d0.awsstatic.com/whitepapers/compliance/AWS_Risk_and_Compliance_Whitepaper.pdf)
-9. [AWS Security Checklist](https://d1.awsstatic.com/whitepapers/Security/AWS_Security_Checklist.pdf)
-10. [AWS HIPAA Compliance Whitepaper](https://d0.awsstatic.com/whitepapers/compliance/AWS_HIPAA_Compliance_Whitepaper.pdf)
-11. [Overview of AWS Lambda Security](https://d1.awsstatic.com/whitepapers/Overview-AWS-Lambda-Security.pdf)
+5. [AWS Well Architected Framework](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf)
+6. [AWS Risk And Compliance Whitepaper](https://d0.awsstatic.com/whitepapers/compliance/AWS_Risk_and_Compliance_Whitepaper.pdf)
+7. [AWS Security Checklist](https://d1.awsstatic.com/whitepapers/Security/AWS_Security_Checklist.pdf)
+8. [AWS HIPAA Compliance Whitepaper](https://d0.awsstatic.com/whitepapers/compliance/AWS_HIPAA_Compliance_Whitepaper.pdf)
+9. [AWS Cloud Adoption Framework](https://d1.awsstatic.com/whitepapers/aws_cloud_adoption_framework.pdf)
+10. [AWS Auditing Security Checklist](https://d1.awsstatic.com/whitepapers/compliance/AWS_Auditing_Security_Checklist.pdf)
+11. [AWS CIS Foundation benchmark](https://d1.awsstatic.com/whitepapers/compliance/AWS_CIS_Foundations_Benchmark.pdf)
 12. [AWS Security Incident Response](https://d1.awsstatic.com/whitepapers/aws_security_incident_response.pdf)
-13. [AWS KMS Best Practices](https://d1.awsstatic.com/whitepapers/aws-kms-best-practices.pdf)
-14. [Encrypting File Data with Amazon Elastic File System](https://d1.awsstatic.com/whitepapers/Security/amazon-efs-encrypted-filesystems.pdf)
-15. [Security of AWS CloudHSM backups](https://d1.awsstatic.com/whitepapers/Security/security-of-aws-cloudhsm-backups.pdf)
-16. [AWS Cloud Adoption Framework](https://d1.awsstatic.com/whitepapers/aws_cloud_adoption_framework.pdf)
-17. [AWS CAF Security perspective](https://d1.awsstatic.com/whitepapers/AWS_CAF_Security_Perspective.pdf)
-18. [AWS Auditing Security Checklist](https://d1.awsstatic.com/whitepapers/compliance/AWS_Auditing_Security_Checklist.pdf)
-19. ~~[Introduction to AWS Security Processes]~~(https://d0.awsstatic.com/whitepapers/Security/Intro_Security_Practices.pdf)
-20. [AWS CIS Foundation benchmark](https://d1.awsstatic.com/whitepapers/compliance/AWS_CIS_Foundations_Benchmark.pdf)
-21. [Security overview of AWS Lambda](https://aws.amazon.com/lambda/security-overview-of-aws-lambda/)
+13. [Overview of AWS Lambda Security](https://d1.awsstatic.com/whitepapers/Overview-AWS-Lambda-Security.pdf)
+14. [AWS KMS Best Practices](https://d1.awsstatic.com/whitepapers/aws-kms-best-practices.pdf)
+15. [Encrypting File Data with Amazon Elastic File System](https://d1.awsstatic.com/whitepapers/Security/amazon-efs-encrypted-filesystems.pdf)
+16. [Security of AWS CloudHSM backups](https://d1.awsstatic.com/whitepapers/Security/security-of-aws-cloudhsm-backups.pdf)
+17. [Security overview of AWS Lambda](https://aws.amazon.com/lambda/security-overview-of-aws-lambda/)
+18. [NIST Cybersecurity Framework in the AWS cloud](https://d0.awsstatic.com/whitepapers/compliance/NIST_Cybersecurity_Framework_CSF.pdf)
+19. [NIST 800-144 Security and Privacy in Public Cloud Computing](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-144.pdf)
 
 ## Books
 1. [Hands-On AWS Penetration Testing with Kali Linux by PackT](https://www.packtpub.com/virtualization-and-cloud/hands-aws-penetration-testing-kali-linux)
@@ -116,25 +114,24 @@ And don't forget to **bookmark AWS Security bulletin** for new vulenrabilities n
     * 1.14 **AWS Conformance Packs:** A conformance pack is a collection of AWS Config rules and remediation actions that can be easily deployed as a single entity in an account and a Region or across an organization in AWS Organizations. [conformance packs on github](https://github.com/awslabs/aws-config-rules/tree/master/aws-config-conformance-packs)
 2. [Arsenal of AWS Security Tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) - Collection of all security category tools and products
 3. [AWS Security Automation](https://github.com/awslabs/aws-security-automation) - Collection of scripts and resources for DevSecOps and Automated Incident Response Security
-4. ~~[Security Monkey]~~(https://github.com/Netflix/security_monkey) - Monitors AWS, GCP, OpenStack, and GitHub orgs for assets and their changes over time.
-5. [truffleHog](https://github.com/dxa4481/truffleHog) - Searches through git repositories for high entropy strings and secrets, digging deep into commit history
-6. [gitleaks](https://github.com/zricethezav/gitleaks) - Audit git repos for secrets
-7. [AWS Security Benchmark](https://github.com/awslabs/aws-security-benchmark) - Open source demos, concept and guidance related to the AWS CIS Foundation framework.
-8. [S3 Inspector](https://github.com/kromtech/s3-inspector) - Tool to check AWS S3 bucket permissions
-9. [ScoutSuite](https://github.com/nccgroup/ScoutSuite) - Multi-Cloud Security Auditing Tool
-10. [Prowler](https://github.com/toniblyx/prowler) - AWS Security Best Practices Assessment, Auditing, Hardening and Forensics Readiness Tool.
-11. [AWS Vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
-12. [AWS PWN](https://github.com/dagrz/aws_pwn) - A collection of AWS penetration testing junk
-13. [Pacu](https://github.com/RhinoSecurityLabs/pacu) - AWS Penetration Testing Toolkits
-14. [Zeus](https://github.com/DenizParlak/Zeus) - AWS Auditing and Hardening tool
-15. [Cloud Mapper](https://github.com/duo-labs/cloudmapper) - Analyze your AWS environments (Python)
-16. [ConsoleMe](https://github.com/Netflix/consoleme) - A Central Control Plane for AWS Permissions and Access
+4. [truffleHog](https://github.com/dxa4481/truffleHog) - Searches through git repositories for high entropy strings and secrets, digging deep into commit history
+5. [gitleaks](https://github.com/zricethezav/gitleaks) - Audit git repos for secrets
+6. [AWS Security Benchmark](https://github.com/awslabs/aws-security-benchmark) - Open source demos, concept and guidance related to the AWS CIS Foundation framework.
+7. [S3 Inspector](https://github.com/kromtech/s3-inspector) - Tool to check AWS S3 bucket permissions
+8. [ScoutSuite](https://github.com/nccgroup/ScoutSuite) - Multi-Cloud Security Auditing Tool
+9. [Prowler](https://github.com/toniblyx/prowler) - AWS Security Best Practices Assessment, Auditing, Hardening and Forensics Readiness Tool.
+10. [AWS Vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
+11. [AWS PWN](https://github.com/dagrz/aws_pwn) - A collection of AWS penetration testing junk
+12. [Pacu](https://github.com/RhinoSecurityLabs/pacu) - AWS Penetration Testing Toolkits
+13. [Zeus](https://github.com/DenizParlak/Zeus) - AWS Auditing and Hardening tool
+14. [Cloud Mapper](https://github.com/duo-labs/cloudmapper) - Analyze your AWS environments (Python)
+15. [ConsoleMe](https://github.com/Netflix/consoleme) - A Central Control Plane for AWS Permissions and Access
 
-## Security Practice and CTFs
+## Security Practices and CTFs
 1. [AWS Well Architected Security Labs](https://wellarchitectedlabs.com/security/)
 2. [Flaws to learn common mistakes in AWS through challenge](http://flaws.cloud/)
 3. [Flaws2 focuses on AWS security concepts through various challenge levels](http://flaws2.cloud/)
-4. [CloudGoat](https://github.com/RhinoSecurityLabs/cloudgoat) - Vulnerable by Design AWS infrastructure setup tool
+4. [CloudGoat By Rhino Security Labs](https://github.com/RhinoSecurityLabs/cloudgoat) - Vulnerable by Design AWS infrastructure setup tool
 5. [OWASP ServerlessGoat](https://github.com/OWASP/Serverless-Goat) - OWASP ServerlessGoat is a deliberately insecure realistic AWS Lambda serverless application maintained by OWASP for educational purposes.
 6. [AWS S3 CTF Challenges with solutions](https://n0j.github.io/2017/10/02/aws-s3-ctf.html)
 7. [AWS CTF with practical scenario](https://r00tz-ctf.awssecworkshops.com/)
@@ -142,7 +139,7 @@ And don't forget to **bookmark AWS Security bulletin** for new vulenrabilities n
 9. [AWS Workshop official](https://awsworkshop.io/) - This is not exactly security part, but would be helpful to understand AWS with this workshop examples.
 10. [AWS Security Workshops](https://awssecworkshops.com/) by AWS
 
-## AWS Security Bulleting Important Issues
+## AWS Security Bulletin Important Issues
 1. [Container Networking Security Issue ([CVE-2020-8558])](https://nvd.nist.gov/vuln/detail/CVE-2020-8558) (This issue may allow containers running on the same host, or adjacent hosts (hosts running in the same LAN or layer 2 domain), to reach TCP and UDP services bound to localhost (127.0.0.1))
 2. [Minimum Version of TLS 1.2 Required for FIPS Endpoints by March 31, 2021](https://aws.amazon.com/security/security-bulletins/AWS-2020-001/)
 3. [Unencrypted md5 plaintext hash in metadata in AWS S3 Crypto SDK for golang](https://github.com/google/security-research/security/advisories/GHSA-76wf-9vgp-pj7w)
