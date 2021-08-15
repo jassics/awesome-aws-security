@@ -51,10 +51,11 @@ And don't forget to **bookmark AWS Security bulletin** for new vulnerabilities n
 6. [AWS Lambda Security Best Practices - pdf](http://www.aliencoders.org/wp-content/uploads/2020/01/AWS-Lambda-Security-eBook-1.pdf) - It's published by Puresec and it has a good overview on AWS Lambda Security Best Practices which we should follow
 7. [AWS Security by Manning](https://www.manning.com/books/aws-security) - Very nice book in Progress, yet to release.
 8. [Securing DevOps](https://www.manning.com/books/securing-devops) - A book which has real-world examples for Cloud Security. Must read book for any Cloud Security Professionals.
-9. [AWS Security Cookbook](https://www.packtpub.com/product/aws-security-cookbook/9781838826253)
-10. [Practical Guide to Security in the AWS Cloud by SANS and sponsored by AWS Marketplace - pdf](https://pages.awscloud.com/rs/112-TZM-766/images/Cloud%20Security%20Practical%20Guide%20to%20Security%20in%20the%20AWS%20Cloud.pdf)
-11. [CSA Guide to Cloud Computing by Sungress](https://www.oreilly.com/library/view/csa-guide-to/9780124201255/)
-12. [Practical Cloud Security by O'reilly](https://www.oreilly.com/library/view/practical-cloud-security/9781492037507/)
+9. [Serverless Security](https://ServerlessSecurityBook.com) - An Apress book that discusses serverless security on AWS, Azure and Google Cloud.
+10. [AWS Security Cookbook](https://www.packtpub.com/product/aws-security-cookbook/9781838826253)
+11. [Practical Guide to Security in the AWS Cloud by SANS and sponsored by AWS Marketplace - pdf](https://pages.awscloud.com/rs/112-TZM-766/images/Cloud%20Security%20Practical%20Guide%20to%20Security%20in%20the%20AWS%20Cloud.pdf)
+12. [CSA Guide to Cloud Computing by Sungress](https://www.oreilly.com/library/view/csa-guide-to/9780124201255/)
+13. [Practical Cloud Security by O'reilly](https://www.oreilly.com/library/view/practical-cloud-security/9781492037507/)
 
 ## Videos
 1. [The fundamentals of AWS Security](https://www.youtube.com/watch?v=-ObImxw1PmI) - Youtube
