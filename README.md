@@ -48,9 +48,13 @@ And don't forget to **bookmark AWS Security bulletin** for new vulnerabilities n
 3. [Security Best Practices on AWS by PackT](https://www.packtpub.com/in/virtualization-and-cloud/aws-security-best-practices-aws)
 4. [Cloud Security Automation](https://www.packtpub.com/in/networking-and-servers/cloud-security-automation)
 5. [AWS Automation Cookbook](https://www.packtpub.com/in/virtualization-and-cloud/aws-automation-cookbook)
-6. [AWS Lambda Security Best Practices](http://www.aliencoders.org/wp-content/uploads/2020/01/AWS-Lambda-Security-eBook-1.pdf) - It's published by Puresec and it has a good overview on AWS Lambda Security Best Practices which we should follow
+6. [AWS Lambda Security Best Practices - pdf](http://www.aliencoders.org/wp-content/uploads/2020/01/AWS-Lambda-Security-eBook-1.pdf) - It's published by Puresec and it has a good overview on AWS Lambda Security Best Practices which we should follow
 7. [AWS Security by Manning](https://www.manning.com/books/aws-security) - Very nice book in Progress, yet to release.
 8. [Securing DevOps](https://www.manning.com/books/securing-devops) - A book which has real-world examples for Cloud Security. Must read book for any Cloud Security Professionals.
+9. [AWS Security Cookbook](https://www.packtpub.com/product/aws-security-cookbook/9781838826253)
+10. [Practical Guide to Security in the AWS Cloud by SANS and sponsored by AWS Marketplace - pdf](https://pages.awscloud.com/rs/112-TZM-766/images/Cloud%20Security%20Practical%20Guide%20to%20Security%20in%20the%20AWS%20Cloud.pdf)
+11. [CSA Guide to Cloud Computing by Sungress](https://www.oreilly.com/library/view/csa-guide-to/9780124201255/)
+12. [Practical Cloud Security by O'reilly](https://www.oreilly.com/library/view/practical-cloud-security/9781492037507/)
 
 ## Videos
 1. [The fundamentals of AWS Security](https://www.youtube.com/watch?v=-ObImxw1PmI) - Youtube
@@ -63,6 +67,8 @@ And don't forget to **bookmark AWS Security bulletin** for new vulnerabilities n
 8. [Introduction to AWS Security Hub](https://www.youtube.com/watch?v=o0NDi01YPXs) - Youtube
 9. [Solution for flaws.cloud AWS Security Challenge](https://www.youtube.com/watch?v=VDptLO9XYbU&list=PLRTsCutScZnzo3uV_79Dur73kqskfaTMS) - Youtube Playlist
 10. [AWS Security Best Practice: Well-Architected way](https://www.youtube.com/watch?v=u6BCVkXkPnM) - Youtube
+11. [Hands-On With AWS Security Best Practices](https://www.youtube.com/watch?v=dabbsZ_sDX0)
+12. [AWS re:Invent 2020: Security at scale: How Goldman Sachs manages network and access control](https://www.youtube.com/watch?v=5cnob8HIswY)
 
 ## Online Tutorials/Blogs/Presentations
 1. [AWS Security official blog](https://aws.amazon.com/blogs/security/)
@@ -82,6 +88,7 @@ And don't forget to **bookmark AWS Security bulletin** for new vulnerabilities n
 15. [Getting shell and data access in AWS by chaining vulnerabilities](https://blog.appsecco.com/getting-shell-and-data-access-in-aws-by-chaining-vulnerabilities-7630fa57c7ed)
 16. [Hacking Serverless Runtimes - Blackhat2017](https://www.blackhat.com/docs/us-17/wednesday/us-17-Krug-Hacking-Severless-Runtimes.pdf)
 17. [Detailed blog on ConsoleMe: A Central Control Plane for AWS Permissions and Access by Netflix](https://netflixtechblog.com/consoleme-a-central-control-plane-for-aws-permissions-and-access-fd09afdd60a8)
+18. [Strengthen the security of sensitive data stored in Amazon S3 by using additional AWS services](https://aws.amazon.com/blogs/security/strengthen-the-security-of-sensitive-data-stored-in-amazon-s3-by-using-additional-aws-services/)
 
 ## Online Courses (Paid/Free)
 1. [AWS Fundamentals: Address Security Risks](https://www.coursera.org/learn/aws-fundamentals-addressing-security-risk) - Coursera
@@ -157,6 +164,8 @@ And don't forget to **bookmark AWS Security bulletin** for new vulnerabilities n
 7. [Online Fashion App 21 buttons Exposes Financial Records of Top European Influencers due to S3 misconfiguration](https://www.vpnmentor.com/blog/report-21-buttons-breach/)
 8. [Capital One Cloud data breach due to S3 misconfiguration](https://rhinosecuritylabs.com/aws/capital-one-cloud_breach_s3-cloudgoat/)
 9. [Online Fashion App 21 buttons Exposes Financial Records of Top European Influencers](https://www.vpnmentor.com/blog/report-21-buttons-breach/)
+10. [Utah COVID-19 testing service exposes 50,000 patients’ photo IDs, personal info on the web](https://www.comparitech.com/blog/information-security/utah-covid-test-center-leak/)
+11. [US municipalities suffer data breach due to misconfigured Amazon S3 buckets](https://www.securitymagazine.com/articles/95704-us-municipalities-suffer-data-breach-due-to-misconfigured-amazon-s3-buckets)
 
 ## Contributors
 [Please refer the guidelines at contribute.md for details](Contribute.md).
