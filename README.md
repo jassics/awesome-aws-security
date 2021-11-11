@@ -41,6 +41,8 @@ And don't forget to **bookmark AWS Security bulletin** for new vulnerabilities n
 17. [Security overview of AWS Lambda](https://aws.amazon.com/lambda/security-overview-of-aws-lambda/)
 18. [NIST Cybersecurity Framework in the AWS cloud](https://d0.awsstatic.com/whitepapers/compliance/NIST_Cybersecurity_Framework_CSF.pdf)
 19. [NIST 800-144 Security and Privacy in Public Cloud Computing](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-144.pdf)
+20. [Security at the Edge: Core Principles](https://d1.awsstatic.com/whitepapers/Security/security-at-the-edge.pdf)
+21. [AWS KMS Best Practices](https://d0.awsstatic.com/whitepapers/aws-kms-best-practices.pdf)
 
 ## Books
 1. [Hands-On AWS Penetration Testing with Kali Linux by PackT](https://www.packtpub.com/virtualization-and-cloud/hands-aws-penetration-testing-kali-linux)
@@ -90,6 +92,12 @@ And don't forget to **bookmark AWS Security bulletin** for new vulnerabilities n
 16. [Hacking Serverless Runtimes - Blackhat2017](https://www.blackhat.com/docs/us-17/wednesday/us-17-Krug-Hacking-Severless-Runtimes.pdf)
 17. [Detailed blog on ConsoleMe: A Central Control Plane for AWS Permissions and Access by Netflix](https://netflixtechblog.com/consoleme-a-central-control-plane-for-aws-permissions-and-access-fd09afdd60a8)
 18. [Strengthen the security of sensitive data stored in Amazon S3 by using additional AWS services](https://aws.amazon.com/blogs/security/strengthen-the-security-of-sensitive-data-stored-in-amazon-s3-by-using-additional-aws-services/)
+19. [Use IMDSv2 instead: Defense in depth](https://aws.amazon.com/blogs/security/defense-in-depth-open-firewalls-reverse-proxies-ssrf-vulnerabilities-ec2-instance-metadata-service/ 
+)
+20. [Managing permissions with grants in AWS Key Management Service](https://aws.amazon.com/blogs/security/managing-permissions-with-grants-in-aws-key-management-service/)
+21. [AWS IAM Exploitation](https://sra.io/blog/aws-iam-exploitation/)
+22. [S3 Pentest by Rhino Security Labs](https://rhinosecuritylabs.com/penetration-testing/penetration-testing-aws-storage/)
+23. [How an Attacker Could Use Instance Metadata to Breach Your App in AWS](https://www.mcafee.com/blogs/enterprise/cloud-security/how-an-attacker-could-use-instance-metadata-to-breach-your-app-in-aws/)
 
 ## Online Courses (Paid/Free)
 1. [AWS Fundamentals: Address Security Risks](https://www.coursera.org/learn/aws-fundamentals-addressing-security-risk) - Coursera
