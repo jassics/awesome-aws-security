@@ -98,6 +98,8 @@ And don't forget to **bookmark AWS Security bulletin** for new vulnerabilities n
 21. [AWS IAM Exploitation](https://sra.io/blog/aws-iam-exploitation/)
 22. [S3 Pentest by Rhino Security Labs](https://rhinosecuritylabs.com/penetration-testing/penetration-testing-aws-storage/)
 23. [How an Attacker Could Use Instance Metadata to Breach Your App in AWS](https://www.mcafee.com/blogs/enterprise/cloud-security/how-an-attacker-could-use-instance-metadata-to-breach-your-app-in-aws/)
+24. [Orca Security Research Team Discovers AWS CloudFormation Vulnerability](https://orca.security/resources/blog/aws-cloudformation-vulnerability/)
+25. [Orca Security Research Team Discovers AWS Glue Vulnerability](https://orca.security/resources/blog/aws-glue-vulnerability/)
 
 ## Online Courses (Paid/Free)
 1. [AWS Fundamentals: Address Security Risks](https://www.coursera.org/learn/aws-fundamentals-addressing-security-risk) - Coursera
