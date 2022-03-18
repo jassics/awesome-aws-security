@@ -102,6 +102,8 @@ And don't forget to **bookmark AWS Security bulletin** for new vulnerabilities n
 23. [How an Attacker Could Use Instance Metadata to Breach Your App in AWS](https://www.mcafee.com/blogs/enterprise/cloud-security/how-an-attacker-could-use-instance-metadata-to-breach-your-app-in-aws/)
 24. [Orca Security Research Team Discovers AWS CloudFormation Vulnerability](https://orca.security/resources/blog/aws-cloudformation-vulnerability/)
 25. [Orca Security Research Team Discovers AWS Glue Vulnerability](https://orca.security/resources/blog/aws-glue-vulnerability/)
+26. [How I Discovered Thousands of Open Databases on AWS](https://infosecwriteups.com/how-i-discovered-thousands-of-open-databases-on-aws-764729aa7f32)
+
 
 ## Online Courses (Paid/Free)
 1. [AWS Fundamentals: Address Security Risks](https://www.coursera.org/learn/aws-fundamentals-addressing-security-risk) - Coursera
