@@ -45,7 +45,7 @@ And don't forget to **bookmark AWS Security bulletin** for new vulnerabilities n
 19. [NIST 800-144 Security and Privacy in Public Cloud Computing](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-144.pdf)
 20. [Security at the Edge: Core Principles](https://d1.awsstatic.com/whitepapers/Security/security-at-the-edge.pdf)
 21. [AWS KMS Best Practices](https://d0.awsstatic.com/whitepapers/aws-kms-best-practices.pdf)
-
+22. [Security Overview of AWS Fargate](https://d1.awsstatic.com/whitepapers/AWS_Fargate_Security_Overview_Whitepaper.pdf)
 ## Books
 1. [Hands-On AWS Penetration Testing with Kali Linux by PackT](https://www.packtpub.com/virtualization-and-cloud/hands-aws-penetration-testing-kali-linux)
 2. [Mastering AWS Security by PackT](https://www.packtpub.com/in/virtualization-and-cloud/mastering-aws-security)
@@ -148,7 +148,7 @@ And don't forget to **bookmark AWS Security bulletin** for new vulnerabilities n
 13. [Zeus](https://github.com/DenizParlak/Zeus) - AWS Auditing and Hardening tool
 14. [Cloud Mapper](https://github.com/duo-labs/cloudmapper) - Analyze your AWS environments (Python)
 15. [ConsoleMe](https://github.com/Netflix/consoleme) - A Central Control Plane for AWS Permissions and Access
-
+16. [AWS Firewall Factory](https://github.com/globaldatanet/aws-firewall-factory) - Deploy, update, and stage your WAFs while managing them centrally via FMS.
 ## Security Practices and CTFs
 1. [AWS Well Architected Security Labs](https://wellarchitectedlabs.com/security/)
 2. [Flaws to learn common mistakes in AWS through challenge](http://flaws.cloud/)
