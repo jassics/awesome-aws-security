@@ -60,6 +60,7 @@ And don't forget to **bookmark AWS Security bulletin** for new vulnerabilities n
 11. [Practical Guide to Security in the AWS Cloud by SANS and sponsored by AWS Marketplace - pdf](https://pages.awscloud.com/rs/112-TZM-766/images/Cloud%20Security%20Practical%20Guide%20to%20Security%20in%20the%20AWS%20Cloud.pdf)
 12. [CSA Guide to Cloud Computing by Sungress](https://www.oreilly.com/library/view/csa-guide-to/9780124201255/)
 13. [Practical Cloud Security by O'reilly](https://www.oreilly.com/library/view/practical-cloud-security/9781492037507/)
+14. [AWS Security](https://www.manning.com/books/aws-security)
 
 ## Videos
 1. [The fundamentals of AWS Security](https://www.youtube.com/watch?v=-ObImxw1PmI) - Youtube
