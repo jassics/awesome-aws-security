@@ -46,6 +46,7 @@ And don't forget to **bookmark AWS Security bulletin** for new vulnerabilities n
 20. [Security at the Edge: Core Principles](https://d1.awsstatic.com/whitepapers/Security/security-at-the-edge.pdf)
 21. [AWS KMS Best Practices](https://d0.awsstatic.com/whitepapers/aws-kms-best-practices.pdf)
 22. [Security Overview of AWS Fargate](https://d1.awsstatic.com/whitepapers/AWS_Fargate_Security_Overview_Whitepaper.pdf)
+
 ## Books
 1. [Hands-On AWS Penetration Testing with Kali Linux by PackT](https://www.packtpub.com/virtualization-and-cloud/hands-aws-penetration-testing-kali-linux)
 2. [Mastering AWS Security by PackT](https://www.packtpub.com/in/virtualization-and-cloud/mastering-aws-security)
@@ -103,7 +104,12 @@ And don't forget to **bookmark AWS Security bulletin** for new vulnerabilities n
 24. [Orca Security Research Team Discovers AWS CloudFormation Vulnerability](https://orca.security/resources/blog/aws-cloudformation-vulnerability/)
 25. [Orca Security Research Team Discovers AWS Glue Vulnerability](https://orca.security/resources/blog/aws-glue-vulnerability/)
 26. [How I Discovered Thousands of Open Databases on AWS](https://infosecwriteups.com/how-i-discovered-thousands-of-open-databases-on-aws-764729aa7f32)
-
+27. [CVE-2022-25165: Privilege Escalation to SYSTEM in AWS VPN Client](https://rhinosecuritylabs.com/aws/cve-2022-25165-aws-vpn-client/)
+28. [Downloading and Exploring AWS EBS Snapshots](https://rhinosecuritylabs.com/aws/exploring-aws-ebs-snapshots/)
+29. [Weaponizing AWS ECS Task Definitions to Steal Credentials From Running Containers](https://rhinosecuritylabs.com/aws/weaponizing-ecs-task-definitions-steal-credentials-running-containers/)
+30. [Good Read on AWS IAM Privilege Escalation – Methods and Mitigation](https://rhinosecuritylabs.com/aws/aws-privilege-escalation-methods-mitigation/)
+31. [One more on IAM Privilege Escalation](https://payatu.com/blog/mayank.arora/iam_privilege_escalation_attack)
+32. *[A very good repo for learning IAM based vulnerabilities](https://github.com/BishopFox/iam-vulnerable)
 
 ## Online Courses (Paid/Free)
 1. [AWS Fundamentals: Address Security Risks](https://www.coursera.org/learn/aws-fundamentals-addressing-security-risk) - Coursera
@@ -149,6 +155,7 @@ And don't forget to **bookmark AWS Security bulletin** for new vulnerabilities n
 14. [Cloud Mapper](https://github.com/duo-labs/cloudmapper) - Analyze your AWS environments (Python)
 15. [ConsoleMe](https://github.com/Netflix/consoleme) - A Central Control Plane for AWS Permissions and Access
 16. [AWS Firewall Factory](https://github.com/globaldatanet/aws-firewall-factory) - Deploy, update, and stage your WAFs while managing them centrally via FMS.
+
 ## Security Practices and CTFs
 1. [AWS Well Architected Security Labs](https://wellarchitectedlabs.com/security/)
 2. [Flaws to learn common mistakes in AWS through challenge](http://flaws.cloud/)
