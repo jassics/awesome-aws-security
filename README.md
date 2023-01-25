@@ -168,6 +168,7 @@ And don't forget to **bookmark AWS Security bulletin** for new vulnerabilities n
 9. [Breaking and Pwning Apps and Servers on AWS and Azure by AppSecCo](https://github.com/appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training) - The training covers a multitude of scenarios taken from our vulnerability assessment, penetration testing and OSINT engagements which take the student through the journey of discovery, identification and exploitation of security weaknesses, misconfigurations and poor programming practices that can lead to complete compromise of the cloud infrastructure.
 10. [AWS Workshop official](https://awsworkshop.io/) - This is not exactly security part, but would be helpful to understand AWS with this workshop examples.
 11. [AWS Security Workshops](https://awssecworkshops.com/) by AWS
+12. [ThreatModel for Amazon S3](https://github.com/trustoncloud/threatmodel-for-aws-s3) - Library of all the attack scenarios on Amazon S3 and how to mitigate them, following a risk-based approach
 
 ## AWS Security Bulletin Important Issues
 1. [Container Networking Security Issue ([CVE-2020-8558])](https://nvd.nist.gov/vuln/detail/CVE-2020-8558) (This issue may allow containers running on the same host, or adjacent hosts (hosts running in the same LAN or layer 2 domain), to reach TCP and UDP services bound to localhost (127.0.0.1))
