@@ -124,7 +124,6 @@ And don't forget to **bookmark AWS Security bulletin** for new vulnerabilities n
 9. [Learning Path for AWS Security](https://learn.acloud.guru/learning-path/aws-security) - Nicely designed the learning path who wants to be an AWS Security Experts from Acloud.guru
 10. [Cloud Hacking course](https://www.notsosecure.com/hacking-training/cloud-hacking/) - From NotSoSercure
 11. [Breaking and Pwning Apps and Servers in AWS and Azure](https://github.com/appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training) - Previously an instructor led training now released as free and open source courseware for Cloud Pentesters
-12. [AWS Security Learning Plan](https://explore.skillbuilder.aws/learn/public/learning_plan/view/91/security-learning-plan) - AWS Structured Security learning plan with free structured course.
 
 ## Tools of Trade
 1. [AWS Security Products - Official](https://aws.amazon.com/products/security/) - Few Important tools that you should consider are:
