@@ -110,6 +110,7 @@ And don't forget to **bookmark AWS Security bulletin** for new vulnerabilities n
 30. [Good Read on AWS IAM Privilege Escalation – Methods and Mitigation](https://rhinosecuritylabs.com/aws/aws-privilege-escalation-methods-mitigation/)
 31. [One more on IAM Privilege Escalation](https://payatu.com/blog/mayank.arora/iam_privilege_escalation_attack)
 32. *[A very good repo for learning IAM based vulnerabilities](https://github.com/BishopFox/iam-vulnerable)
+33. [AWS Penetration Testing: Step by step guide](https://www.hackthebox.com/blog/aws-pentesting-guide)
 
 ## Online Courses (Paid/Free)
 1. [AWS Fundamentals: Address Security Risks](https://www.coursera.org/learn/aws-fundamentals-addressing-security-risk) - Coursera
