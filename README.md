@@ -158,6 +158,7 @@ And don't forget to **bookmark AWS Security bulletin** for new vulnerabilities n
 16. [AWS Firewall Factory](https://github.com/globaldatanet/aws-firewall-factory) - Deploy, update, and stage your WAFs while managing them centrally via FMS.
 17. [AWS Pentesting/Red Team Methodology - by hacktricks](https://cloud.hacktricks.xyz/pentesting-cloud/aws-pentesting) - A Collection for AWS environment penetration testing methodology.
 18. [AWS Pentesting/Red Team Methodology - by hackingthe.cloud](https://hackingthe.cloud/aws/general-knowledge/aws_organizations_defaults/) - A collection of attacks/tactics/techniques that can use by offensive security professionals during cloud exploitation.
+19. [ssm-supercharged](https://github.com/HQarroum/ssm-supercharged) - AWS SSM integration with OpenSSH + EC2 Instance Connect + sshuttle.
 
 ## Security Practices and CTFs
 1. [AWS Well Architected Security Labs](https://wellarchitectedlabs.com/security/)
