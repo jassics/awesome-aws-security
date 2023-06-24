@@ -118,12 +118,17 @@ And don't forget to **bookmark AWS Security bulletin** for new vulnerabilities n
 3. [AWS: Getting started with Cloud Security](https://www.edx.org/course/aws-getting-started-with-cloud-security) - EdX
 4. [AWS Certified Security Specialty](https://www.udemy.com/course/aws-certified-security-specialty/) - Udemy by Zeal Vora
 5. [AWS Certified Security Specialty](https://acloud.guru/learn/aws-certified-security-specialty) - From Acloud.guru
-6. [AWS Advanced Security](https://www.udemy.com/course/aws-advanced-security/) - Udemy
-7. [AWS for Architects: Advanced Security](https://www.linkedin.com/learning/aws-for-architects-advanced-security/) - Linkedin Learn by Lynn Langit
-8. [Practical Event Driven Security with AWS](https://acloud.guru/learn/practical-event-driven-security-with-aws) - Acloud.guru
-9. [Learning Path for AWS Security](https://learn.acloud.guru/learning-path/aws-security) - Nicely designed the learning path who wants to be an AWS Security Experts from Acloud.guru
-10. [Cloud Hacking course](https://www.notsosecure.com/hacking-training/cloud-hacking/) - From NotSoSercure
-11. [Breaking and Pwning Apps and Servers in AWS and Azure](https://github.com/appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training) - Previously an instructor led training now released as free and open source courseware for Cloud Pentesters
+6. [AWS Certified Security Specialty](https://www.udemy.com/course/ultimate-aws-certified-security-specialty/) - Udemy by Stephan Maarek
+7. [AWS Certified Security Specialty](https://www.whizlabs.com/aws-certified-security-specialty/) - From WhizLabs
+8. [AWS Advanced Security](https://www.udemy.com/course/aws-advanced-security/) - Udemy
+9. [AWS for Architects: Advanced Security](https://www.linkedin.com/learning/aws-for-architects-advanced-security/) - Linkedin Learn by Lynn Langit
+10. [Practical Event Driven Security with AWS](https://acloud.guru/learn/practical-event-driven-security-with-aws) - Acloud.guru
+11. [Learning Path for AWS Security](https://learn.acloud.guru/learning-path/aws-security) - Nicely designed the learning path who wants to be an AWS Security Experts from Acloud.guru
+12. [Cloud Hacking course](https://www.notsosecure.com/hacking-training/cloud-hacking/) - From NotSoSercure
+13. [Breaking and Pwning Apps and Servers in AWS and Azure](https://github.com/appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training) - Previously an instructor led training now released as free and open source courseware for Cloud Pentesters
+14. [AWS Skill Builder platform security learning plan](https://explore.skillbuilder.aws/learn/public/learning_plan/view/91/security-learning-plan) - AWS SkillBuilder
+15. [Cloud Security: AWS Edition Bootcamp by Pentester Academy](https://bootcamps.pentesteracademy.com/course/cloud-security-aws-on-demand) - From Pentester Academy
+
 
 ## Tools of Trade
 1. [AWS Security Products - Official](https://aws.amazon.com/products/security/) - Few Important tools that you should consider are:
@@ -172,6 +177,11 @@ And don't forget to **bookmark AWS Security bulletin** for new vulnerabilities n
 10. [AWS Workshop official](https://awsworkshop.io/) - This is not exactly security part, but would be helpful to understand AWS with this workshop examples.
 11. [AWS Security Workshops](https://awssecworkshops.com/) by AWS
 12. [ThreatModel for Amazon S3](https://github.com/trustoncloud/threatmodel-for-aws-s3) - Library of all the attack scenarios on Amazon S3 and how to mitigate them, following a risk-based approach
+13. [AWS Cloud Quest: Security Role](https://explore.skillbuilder.aws/learn/course/external/view/elearning/7636/cloud-quest)
+14. [AWS Jam Journey: Security](https://explore.skillbuilder.aws/learn/course/external/view/elearning/9284/aws-jam-journey-security)
+15. [TryHackMe: Attacking and Defending AWS](https://resources.tryhackme.com/attacking-and-defending-aws)
+16. [Free AWS Security Labs](https://pentesting.cloud/)
+17. [Black Sky Cloud Labs from HTB](https://www.hackthebox.com/business/professional-labs/cloud-labs-blacksky)
 
 ## AWS Security Bulletin Important Issues
 1. [Container Networking Security Issue ([CVE-2020-8558])](https://nvd.nist.gov/vuln/detail/CVE-2020-8558) (This issue may allow containers running on the same host, or adjacent hosts (hosts running in the same LAN or layer 2 domain), to reach TCP and UDP services bound to localhost (127.0.0.1))
