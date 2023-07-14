@@ -129,6 +129,7 @@ And don't forget to **bookmark AWS Security bulletin** for new vulnerabilities n
 13. [Breaking and Pwning Apps and Servers in AWS and Azure](https://github.com/appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training) - Previously an instructor led training now released as free and open source courseware for Cloud Pentesters
 14. [AWS Skill Builder platform security learning plan](https://explore.skillbuilder.aws/learn/public/learning_plan/view/91/security-learning-plan) - AWS SkillBuilder
 15. [Cloud Security: AWS Edition Bootcamp by Pentester Academy](https://bootcamps.pentesteracademy.com/course/cloud-security-aws-on-demand) - From Pentester Academy
+16. [Cloud Security BootCamp by Kaizenteq](www.cloudsecuritybootcamp.com) - Monthly FREE Cloud Security Bootcamps From Kaizenteq
 
 
 ## Tools of Trade
@@ -205,6 +206,12 @@ And don't forget to **bookmark AWS Security bulletin** for new vulnerabilities n
 9. [Online Fashion App 21 buttons Exposes Financial Records of Top European Influencers](https://www.vpnmentor.com/blog/report-21-buttons-breach/)
 10. [Utah COVID-19 testing service exposes 50,000 patients’ photo IDs, personal info on the web](https://www.comparitech.com/blog/information-security/utah-covid-test-center-leak/)
 11. [US municipalities suffer data breach due to misconfigured Amazon S3 buckets](https://www.securitymagazine.com/articles/95704-us-municipalities-suffer-data-breach-due-to-misconfigured-amazon-s3-buckets)
+
+
+
+## AWS Security Podcast/Newsletter
+1. [Cloud Security Podcast - YouTube](https://www.youtube.com/@CloudSecurityPodcast/videos) - Weekly Interviews with Cloud Security Professionals on AWS, Azure, GCP Security for Blue Teams & Red Teams
+2. [Cloud Security Newsletter](https://www.cloudsecuritynewsletter.com/) - Weekly Cloud Security Nuggets in your inbox
 
 ## Contributors
 [Please refer the guidelines at contribute.md for details](Contribute.md).
