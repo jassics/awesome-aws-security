@@ -122,14 +122,15 @@ And don't forget to **bookmark AWS Security bulletin** for new vulnerabilities n
 6. [AWS Certified Security Specialty](https://www.udemy.com/course/ultimate-aws-certified-security-specialty/) - Udemy by Stephan Maarek
 7. [AWS Certified Security Specialty](https://www.whizlabs.com/aws-certified-security-specialty/) - From WhizLabs
 8. [AWS Advanced Security](https://www.udemy.com/course/aws-advanced-security/) - Udemy
-9. [AWS for Architects: Advanced Security](https://www.linkedin.com/learning/aws-for-architects-advanced-security/) - Linkedin Learn by Lynn Langit
-10. [Practical Event Driven Security with AWS](https://acloud.guru/learn/practical-event-driven-security-with-aws) - Acloud.guru
-11. [Learning Path for AWS Security](https://learn.acloud.guru/learning-path/aws-security) - Nicely designed the learning path who wants to be an AWS Security Experts from Acloud.guru
-12. [Cloud Hacking course](https://www.notsosecure.com/hacking-training/cloud-hacking/) - From NotSoSercure
-13. [Breaking and Pwning Apps and Servers in AWS and Azure](https://github.com/appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training) - Previously an instructor led training now released as free and open source courseware for Cloud Pentesters
-14. [AWS Skill Builder platform security learning plan](https://explore.skillbuilder.aws/learn/public/learning_plan/view/91/security-learning-plan) - AWS SkillBuilder
-15. [Cloud Security: AWS Edition Bootcamp by Pentester Academy](https://bootcamps.pentesteracademy.com/course/cloud-security-aws-on-demand) - From Pentester Academy
-16. [Cloud Security BootCamp by Kaizenteq](www.cloudsecuritybootcamp.com) - Monthly FREE Cloud Security Bootcamps From Kaizenteq
+9. [AWS Security Path](https://www.appsecengineer.com/product/aws-security) - AppSecEngineer
+10. [AWS for Architects: Advanced Security](https://www.linkedin.com/learning/aws-for-architects-advanced-security/) - Linkedin Learn by Lynn Langit
+11. [Practical Event Driven Security with AWS](https://acloud.guru/learn/practical-event-driven-security-with-aws) - Acloud.guru
+12. [Learning Path for AWS Security](https://learn.acloud.guru/learning-path/aws-security) - Nicely designed the learning path who wants to be an AWS Security Experts from Acloud.guru
+13. [Cloud Hacking course](https://www.notsosecure.com/hacking-training/cloud-hacking/) - From NotSoSercure
+14. [Breaking and Pwning Apps and Servers in AWS and Azure](https://github.com/appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training) - Previously an instructor led training now released as free and open source courseware for Cloud Pentesters
+15. [AWS Skill Builder platform security learning plan](https://explore.skillbuilder.aws/learn/public/learning_plan/view/91/security-learning-plan) - AWS SkillBuilder
+16. [Cloud Security: AWS Edition Bootcamp by Pentester Academy](https://bootcamps.pentesteracademy.com/course/cloud-security-aws-on-demand) - From Pentester Academy
+17. [Cloud Security BootCamp by Kaizenteq](www.cloudsecuritybootcamp.com) - Monthly FREE Cloud Security Bootcamps From Kaizenteq
 
 
 ## Tools of Trade
