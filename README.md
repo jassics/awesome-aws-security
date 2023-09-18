@@ -166,6 +166,7 @@ And don't forget to **bookmark AWS Security bulletin** for new vulnerabilities n
 16. [AWS Firewall Factory](https://github.com/globaldatanet/aws-firewall-factory) - Deploy, update, and stage your WAFs while managing them centrally via FMS.
 17. [AWS Pentesting/Red Team Methodology - by hacktricks](https://cloud.hacktricks.xyz/pentesting-cloud/aws-pentesting) - A Collection for AWS environment penetration testing methodology.
 18. [AWS Pentesting/Red Team Methodology - by hackingthe.cloud](https://hackingthe.cloud/aws/general-knowledge/aws_organizations_defaults/) - A collection of attacks/tactics/techniques that can use by offensive security professionals during cloud exploitation.
+19. [CloudFox](https://github.com/BishopFox/cloudfox) - Automating situational awareness for cloud penetration tests
 
 ## Security Practices and CTFs
 1. [AWS Well Architected Security Labs](https://wellarchitectedlabs.com/security/)
@@ -185,6 +186,7 @@ And don't forget to **bookmark AWS Security bulletin** for new vulnerabilities n
 15. [TryHackMe: Attacking and Defending AWS](https://resources.tryhackme.com/attacking-and-defending-aws)
 16. [Free AWS Security Labs](https://pentesting.cloud/)
 17. [Black Sky Cloud Labs from HTB](https://www.hackthebox.com/business/professional-labs/cloud-labs-blacksky)
+18. [CloudFoxable](https://cloudfoxable.bishopfox.com/) - Create your own vulnerable by design AWS penetration testing playground 
 
 ## AWS Security Bulletin Important Issues
 1. [Container Networking Security Issue ([CVE-2020-8558])](https://nvd.nist.gov/vuln/detail/CVE-2020-8558) (This issue may allow containers running on the same host, or adjacent hosts (hosts running in the same LAN or layer 2 domain), to reach TCP and UDP services bound to localhost (127.0.0.1))
