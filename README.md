@@ -167,6 +167,7 @@ And don't forget to **bookmark AWS Security bulletin** for new vulnerabilities n
 17. [AWS Pentesting/Red Team Methodology - by hacktricks](https://cloud.hacktricks.xyz/pentesting-cloud/aws-pentesting) - A Collection for AWS environment penetration testing methodology.
 18. [AWS Pentesting/Red Team Methodology - by hackingthe.cloud](https://hackingthe.cloud/aws/general-knowledge/aws_organizations_defaults/) - A collection of attacks/tactics/techniques that can use by offensive security professionals during cloud exploitation.
 19. [CloudFox](https://github.com/BishopFox/cloudfox) - Automating situational awareness for cloud penetration tests
+20. [aws-lint-iam-policies](https://github.com/welldone-cloud/aws-lint-iam-policies) - Tool to find problems in identity-based and resource-based IAM policies
 
 ## Security Practices and CTFs
 1. [AWS Well Architected Security Labs](https://wellarchitectedlabs.com/security/)
