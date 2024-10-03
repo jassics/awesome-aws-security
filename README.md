@@ -1,7 +1,7 @@
 # Awesome AWS Security [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A common curated list of links, references, books videos, tutorials (Free or
-Paid), Exploit, CTFs, Hacking Practices etc. which are obviously related to AWS Security.
+A standard curated list of links, references, books, videos, and tutorials (Free or
+Paid), Exploit, CTFs, Hacking Practices, etc., are related to AWS Security.
 _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing._
 
 ![Awesome AWS Security](awesome-aws-security.png)
@@ -18,6 +18,13 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 [9. AWS Security Breaches](#AWS-Security-Breaches)  
 [10. Contributors](#Contributors)
 
+> [!NOTE]
+> You can follow the below github repo as well to excel in Cloud Security
+> 1. [Awesome Cloud Security Learning Resources](https://github.com/jassics/awesome-cybersecurity-learning-resources/blob/main/awesome-cloud-security-learning-resources.md)
+> 2. [AWS Security Study Plan](https://github.com/jassics/security-study-plan/blob/main/aws-security-study-plan.md)
+> 3. [AWS Security Interview Quesitons](https://github.com/jassics/security-interview-questions/blob/main/aws-security-interview-questions.md)
+> 4. [Cloud Security Roadmap](https://github.com/jassics/cybersecurity-roadmap/blob/master/cloud-security.md)
+> 5. [Cloud Security Slides Primer](https://github.com/jassics/cybersecurity-slides/tree/main/cloud-security)
 
 ## AWS Whitepapers
 AWS has awesome lists of whitepapers related to AWS Security. We are adding few important one here. You can anytime check more for updated or new security whitepapers [here](https://aws.amazon.com/security/security-learning/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc)
@@ -211,8 +218,6 @@ And don't forget to **bookmark AWS Security bulletin** for new vulnerabilities n
 9. [Online Fashion App 21 buttons Exposes Financial Records of Top European Influencers](https://www.vpnmentor.com/blog/report-21-buttons-breach/)
 10. [Utah COVID-19 testing service exposes 50,000 patients’ photo IDs, personal info on the web](https://www.comparitech.com/blog/information-security/utah-covid-test-center-leak/)
 11. [US municipalities suffer data breach due to misconfigured Amazon S3 buckets](https://www.securitymagazine.com/articles/95704-us-municipalities-suffer-data-breach-due-to-misconfigured-amazon-s3-buckets)
-
-
 
 ## AWS Security Podcast/Newsletter
 1. [Cloud Security Podcast - YouTube](https://www.youtube.com/@CloudSecurityPodcast/videos) - Weekly Interviews with Cloud Security Professionals on AWS, Azure, GCP Security for Blue Teams & Red Teams
