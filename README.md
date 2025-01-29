@@ -69,6 +69,7 @@ And don't forget to **bookmark AWS Security bulletin** for new vulnerabilities n
 12. [CSA Guide to Cloud Computing by Sungress](https://www.oreilly.com/library/view/csa-guide-to/9780124201255/)
 13. [Practical Cloud Security by O'reilly](https://www.oreilly.com/library/view/practical-cloud-security/9781492037507/)
 14. [Effective IAM for AWS](https://www.effectiveiam.com)
+15. [Amazon Bedrock in Action](https://www.manning.com/books/amazon-bedrock-in-action)
 
 ## Videos
 1. [The fundamentals of AWS Security](https://www.youtube.com/watch?v=-ObImxw1PmI) - Youtube
