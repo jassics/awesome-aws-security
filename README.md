@@ -140,6 +140,7 @@ And don't forget to **bookmark AWS Security bulletin** for new vulnerabilities n
 15. [AWS Skill Builder platform security learning plan](https://explore.skillbuilder.aws/learn/public/learning_plan/view/91/security-learning-plan) - AWS SkillBuilder
 16. [Cloud Security: AWS Edition Bootcamp by Pentester Academy](https://bootcamps.pentesteracademy.com/course/cloud-security-aws-on-demand) - From Pentester Academy
 17. [Cloud Security BootCamp by Kaizenteq](www.cloudsecuritybootcamp.com) - Monthly FREE Cloud Security Bootcamps From Kaizenteq
+18. [EKS Goat: AWS EKS Security Masterclass by Anjali and Divyanshu](https://ekssecurity.kubernetesvillage.com/) - FREE EKS Attack and Defense From [Anjali](https://www.linkedin.com/in/peachycloudsecurity/) & [Divyanshu](https://www.linkedin.com/in/iamdivyanshu/)
 
 
 ## Tools of Trade
