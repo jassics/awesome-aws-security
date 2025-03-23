@@ -221,6 +221,17 @@ And don't forget to **bookmark AWS Security bulletin** for new vulnerabilities n
 10. [Utah COVID-19 testing service exposes 50,000 patients’ photo IDs, personal info on the web](https://www.comparitech.com/blog/information-security/utah-covid-test-center-leak/)
 11. [US municipalities suffer data breach due to misconfigured Amazon S3 buckets](https://www.securitymagazine.com/articles/95704-us-municipalities-suffer-data-breach-due-to-misconfigured-amazon-s3-buckets)
 
+## AWS Infra-level security issues
+1. Spectre and Meltdown (2018)
+- Impact: Affected nearly all modern CPUs (Intel, AMD, and ARM), allowing unauthorized access to sensitive data across processes, including breaking isolation between virtual machines in cloud environments.
+- Vulnerability Type: Side-channel attacks exploiting speculative execution.
+- AWS Mitigation: AWS deployed software patches (KPTI, Retpoline, etc.) and hardware microcode updates while ensuring minimal performance degradation.
+
+2. Zenbleed (2023)
+- Impact: Affected AMD Zen 2 processors, leaking sensitive data like encryption keys and passwords from CPU registers at high speeds.
+- Vulnerability Type: Register file leak (caused by speculative execution failure).
+- AWS Mitigation: AWS patched affected EC2 instances through microcode updates and software mitigations.
+
 ## AWS Security Podcast/Newsletter
 1. [Cloud Security Podcast - YouTube](https://www.youtube.com/@CloudSecurityPodcast/videos) - Weekly Interviews with Cloud Security Professionals on AWS, Azure, GCP Security for Blue Teams & Red Teams
 2. [Cloud Security Newsletter](https://www.cloudsecuritynewsletter.com/) - Weekly Cloud Security Nuggets in your inbox
