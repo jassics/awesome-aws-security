@@ -55,11 +55,11 @@ And don't forget to **bookmark AWS Security bulletin** for new vulnerabilities n
 22. [Security Overview of AWS Fargate](https://d1.awsstatic.com/whitepapers/AWS_Fargate_Security_Overview_Whitepaper.pdf)
 
 ## Books
-1. [Hands-On AWS Penetration Testing with Kali Linux by PackT](https://www.packtpub.com/virtualization-and-cloud/hands-aws-penetration-testing-kali-linux)
-2. [Mastering AWS Security by PackT](https://www.packtpub.com/in/virtualization-and-cloud/mastering-aws-security)
-3. [Security Best Practices on AWS by PackT](https://www.packtpub.com/in/virtualization-and-cloud/aws-security-best-practices-aws)
-4. [Cloud Security Automation](https://www.packtpub.com/in/networking-and-servers/cloud-security-automation)
-5. [AWS Automation Cookbook](https://www.packtpub.com/in/virtualization-and-cloud/aws-automation-cookbook)
+1. [Hands-On AWS Penetration Testing with Kali Linux by PackT](https://www.packtpub.com/en-co/product/hands-on-aws-penetration-testing-with-kali-linux-9781789136722)
+2. [Mastering AWS Security by PackT](https://www.packtpub.com/en-co/product/mastering-aws-security-9781805121718)
+3. [Security Best Practices on AWS by PackT](https://www.packtpub.com/en-co/product/aws-security-best-practices-on-aws-9781789137637)
+4. [Cloud Security Automation](https://www.packtpub.com/en-co/product/cloud-security-automation-9781788622196)
+5. [AWS Automation Cookbook](https://www.packtpub.com/en-co/product/aws-automation-cookbook-9781788392112)
 6. [AWS Lambda Security Best Practices - pdf](http://www.aliencoders.org/wp-content/uploads/2020/01/AWS-Lambda-Security-eBook-1.pdf) - It's published by Puresec and it has a good overview on AWS Lambda Security Best Practices which we should follow
 7. [AWS Security by Manning](https://www.manning.com/books/aws-security) - Very nice book in Progress, yet to release.
 8. [Securing DevOps](https://www.manning.com/books/securing-devops) - A book which has real-world examples for Cloud Security. Must read book for any Cloud Security Professionals.
