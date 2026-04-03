@@ -180,6 +180,7 @@ And don't forget to **bookmark AWS Security bulletin** for new vulnerabilities n
 20. [aws-lint-iam-policies](https://github.com/welldone-cloud/aws-lint-iam-policies) - Tool to find problems in identity-based and resource-based IAM policies
 21. [s3dns](https://github.com/olizimmermann/s3dns) - Passive DNS-based discovery of S3 (and other cloud) buckets by resolving CNAMEs and IPs during recon—ideal for stealthy and early identification of cloud storage exposures
 22. [Nubicustos](https://github.com/Su1ph3r/Nubicustos) - Orchestrates 20+ security tools (Prowler, ScoutSuite, Checkov, CloudFox, Pacu, etc.) with unified findings, attack paths, and compliance
+23. [cloud-audit](https://github.com/gebalamariusz/cloud-audit) - Open-source AWS security scanner that detects attack chains and generates remediation code. 80+ checks, CIS/SOC 2 compliance.
 
 ## Security Practices and CTFs
 1. [AWS Well Architected Security Labs](https://wellarchitectedlabs.com/security/)
