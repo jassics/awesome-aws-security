@@ -165,7 +165,8 @@ And don't forget to **bookmark AWS Security bulletin** for new vulnerabilities n
 5. [gitleaks](https://github.com/zricethezav/gitleaks) - Audit git repos for secrets
 6. [AWS Security Benchmark](https://github.com/awslabs/aws-security-benchmark) - Open source demos, concept and guidance related to the AWS CIS Foundation framework.
 7. [S3 Inspector](https://github.com/kromtech/s3-inspector) - Tool to check AWS S3 bucket permissions
-8. [ScoutSuite](https://github.com/nccgroup/ScoutSuite) - Multi-Cloud Security Auditing Tool
+8. [S3 Security Scanner](https://github.com/TocConsulting/s3-security-scanner) - Comprehensive AWS S3 security scanner that analyzes bucket configurations, policies, and access controls
+9. [ScoutSuite](https://github.com/nccgroup/ScoutSuite) - Multi-Cloud Security Auditing Tool
 9. [Prowler](https://github.com/toniblyx/prowler) - AWS Security Best Practices Assessment, Auditing, Hardening and Forensics Readiness Tool.
 10. [AWS Vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 11. [AWS PWN](https://github.com/dagrz/aws_pwn) - A collection of AWS penetration testing junk
@@ -178,7 +179,8 @@ And don't forget to **bookmark AWS Security bulletin** for new vulnerabilities n
 18. [AWS Pentesting/Red Team Methodology - by hackingthe.cloud](https://hackingthe.cloud/aws/general-knowledge/aws_organizations_defaults/) - A collection of attacks/tactics/techniques that can use by offensive security professionals during cloud exploitation.
 19. [CloudFox](https://github.com/BishopFox/cloudfox) - Automating situational awareness for cloud penetration tests
 20. [aws-lint-iam-policies](https://github.com/welldone-cloud/aws-lint-iam-policies) - Tool to find problems in identity-based and resource-based IAM policies
-21. [s3dns](https://github.com/olizimmermann/s3dns) - Passive DNS-based discovery of S3 (and other cloud) buckets by resolving CNAMEs and IPs during recon—ideal for stealthy and early identification of cloud storage exposures
+21. [IAM Activity Tracker](https://github.com/TocConsulting/iam-activity-tracker) - Serverless AWS solution for tracking IAM, STS, and Console sign-in activities across all regions using EventBridge and CloudTrail
+22. [s3dns](https://github.com/olizimmermann/s3dns) - Passive DNS-based discovery of S3 (and other cloud) buckets by resolving CNAMEs and IPs during recon—ideal for stealthy and early identification of cloud storage exposures
 22. [Nubicustos](https://github.com/Su1ph3r/Nubicustos) - Orchestrates 20+ security tools (Prowler, ScoutSuite, Checkov, CloudFox, Pacu, etc.) with unified findings, attack paths, and compliance
 23. [CloudSecure](https://github.com/carlosinfantes/cloudsecure) - Open-source AWS security assessment platform with AI-powered analysis, Prowler integration, and automated CIS benchmark scanning. Built serverless with CDK, Lambda, and Step Functions
 23. [cloud-audit](https://github.com/gebalamariusz/cloud-audit) - Open-source AWS security scanner that detects attack chains and generates remediation code. 80+ checks, CIS/SOC 2 compliance.
