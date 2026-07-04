@@ -184,6 +184,7 @@ And don't forget to **bookmark AWS Security bulletin** for new vulnerabilities n
 22. [Nubicustos](https://github.com/Su1ph3r/Nubicustos) - Orchestrates 20+ security tools (Prowler, ScoutSuite, Checkov, CloudFox, Pacu, etc.) with unified findings, attack paths, and compliance
 23. [CloudSecure](https://github.com/carlosinfantes/cloudsecure) - Open-source AWS security assessment platform with AI-powered analysis, Prowler integration, and automated CIS benchmark scanning. Built serverless with CDK, Lambda, and Step Functions
 23. [cloud-audit](https://github.com/gebalamariusz/cloud-audit) - Open-source AWS security scanner that detects attack chains and generates remediation code. 80+ checks, CIS/SOC 2 compliance.
+24. [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source autonomous AI penetration testing platform that orchestrates 80+ offensive tools via Markdown playbooks and MCP, with AWS and multi-cloud attack coverage and an evidence trail per finding
 24. [boto3-refresh-session](https://github.com/michaelthomasletts/boto3-refresh-session) - A simple Python package for refreshing AWS temporary credentials in boto3 automatically. Supports MFA, IoT, and custom auth flows.
 
 ## Security Practices and CTFs
