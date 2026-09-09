@@ -185,6 +185,7 @@ And don't forget to **bookmark AWS Security bulletin** for new vulnerabilities n
 23. [CloudSecure](https://github.com/carlosinfantes/cloudsecure) - Open-source AWS security assessment platform with AI-powered analysis, Prowler integration, and automated CIS benchmark scanning. Built serverless with CDK, Lambda, and Step Functions
 23. [cloud-audit](https://github.com/gebalamariusz/cloud-audit) - Open-source AWS security scanner that detects attack chains and generates remediation code. 80+ checks, CIS/SOC 2 compliance.
 24. [boto3-refresh-session](https://github.com/michaelthomasletts/boto3-refresh-session) - A simple Python package for refreshing AWS temporary credentials in boto3 automatically. Supports MFA, IoT, and custom auth flows.
+25. [AWS Security Audit Scripts](https://github.com/TrazTech-Inc/cloud-security-audit-scripts/tree/main/aws) - Python scripts for pre-audit AWS security evidence collection covering IAM, S3, CloudTrail, EC2/VPC, RDS, KMS, and CloudWatch.
 
 ## Security Practices and CTFs
 1. [AWS Well Architected Security Labs](https://wellarchitectedlabs.com/security/)
