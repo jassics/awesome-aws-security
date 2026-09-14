@@ -186,6 +186,7 @@ And don't forget to **bookmark AWS Security bulletin** for new vulnerabilities n
 23. [cloud-audit](https://github.com/gebalamariusz/cloud-audit) - Open-source AWS security scanner that detects attack chains and generates remediation code. 80+ checks, CIS/SOC 2 compliance.
 24. [boto3-refresh-session](https://github.com/michaelthomasletts/boto3-refresh-session) - A simple Python package for refreshing AWS temporary credentials in boto3 automatically. Supports MFA, IoT, and custom auth flows.
 25. [Guardrail for AWS Console](https://github.com/codedigital-software/guardrail-aws) - Browser extension that intercepts destructive AWS Console actions (Terminate instance, Delete bucket/DB/function) and security-group rules opening 0.0.0.0/0, showing an account-aware confirmation before the click goes through. Client-side only, no network requests, MIT.
+26. [Cynative](https://github.com/cynative/cynative) - Open-source framework for security agents with live, read-only access to your infrastructure (connects to AWS, GCP, Azure, self-managed Kubernetes, GitHub and GitLab).
 
 ## Security Practices and CTFs
 1. [AWS Well Architected Security Labs](https://wellarchitectedlabs.com/security/)
@@ -206,6 +207,7 @@ And don't forget to **bookmark AWS Security bulletin** for new vulnerabilities n
 16. [Free AWS Security Labs](https://pentesting.cloud/)
 17. [Black Sky Cloud Labs from HTB](https://www.hackthebox.com/business/professional-labs/cloud-labs-blacksky)
 18. [CloudFoxable](https://cloudfoxable.bishopfox.com/) - Create your own vulnerable by design AWS penetration testing playground 
+19. [RansomLeak Cloud Security Training](https://ransomleak.com/catalogue/cloud-security/) - Free browser-based labs on public S3 buckets, over-permissive IAM, long-lived access keys, instance metadata abuse, and privileged containers
 
 ## AWS Security Bulletin Important Issues
 1. [Container Networking Security Issue ([CVE-2020-8558])](https://nvd.nist.gov/vuln/detail/CVE-2020-8558) (This issue may allow containers running on the same host, or adjacent hosts (hosts running in the same LAN or layer 2 domain), to reach TCP and UDP services bound to localhost (127.0.0.1))
