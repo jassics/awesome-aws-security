@@ -207,6 +207,7 @@ And don't forget to **bookmark AWS Security bulletin** for new vulnerabilities n
 17. [Black Sky Cloud Labs from HTB](https://www.hackthebox.com/business/professional-labs/cloud-labs-blacksky)
 18. [CloudFoxable](https://cloudfoxable.bishopfox.com/) - Create your own vulnerable by design AWS penetration testing playground 
 19. [RansomLeak Cloud Security Training](https://ransomleak.com/catalogue/cloud-security/) - Free browser-based labs on public S3 buckets, over-permissive IAM, long-lived access keys, instance metadata abuse, and privileged containers
+20. [Pwned Labs free AWS labs](https://pwnedlabs.io/explore) - Free browser-based labs in live AWS environments, no AWS account needed, including [S3 enumeration basics](https://pwnedlabs.io/explore/aws-s3-enumeration-basics), [IAM enumeration with the CLI](https://pwnedlabs.io/explore/intro-to-aws-iam-enumeration) and [finding the AWS account ID behind a public S3 bucket](https://pwnedlabs.io/explore/identify-the-aws-account-id-from-a-public-s3-bucket)
 
 ## AWS Security Bulletin Important Issues
 1. [Container Networking Security Issue ([CVE-2020-8558])](https://nvd.nist.gov/vuln/detail/CVE-2020-8558) (This issue may allow containers running on the same host, or adjacent hosts (hosts running in the same LAN or layer 2 domain), to reach TCP and UDP services bound to localhost (127.0.0.1))
