@@ -141,6 +141,7 @@ And don't forget to **bookmark AWS Security bulletin** for new vulnerabilities n
 16. [Cloud Security: AWS Edition Bootcamp by Pentester Academy](https://bootcamps.pentesteracademy.com/course/cloud-security-aws-on-demand) - From Pentester Academy
 17. [Cloud Security BootCamp by Kaizenteq](www.cloudsecuritybootcamp.com) - Monthly FREE Cloud Security Bootcamps From Kaizenteq
 18. [EKS Goat: AWS EKS Security Masterclass by Anjali and Divyanshu](https://ekssecurity.kubernetesvillage.com/) - FREE EKS Attack and Defense From [Anjali](https://www.linkedin.com/in/peachycloudsecurity/) & [Divyanshu](https://www.linkedin.com/in/iamdivyanshu/)
+19. [AWS Certified Security Specialty (SCS-C03)](https://testimea.com/product/aws-security-specialty-certification-practise-exam/) - Practice exam from testimea, with a free sample quiz and a $1 one-sitting trial (full access is a one-time purchase)
 
 
 ## Tools of Trade
