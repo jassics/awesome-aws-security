@@ -188,6 +188,8 @@ And don't forget to **bookmark AWS Security bulletin** for new vulnerabilities n
 25. [Cynative](https://github.com/cynative/cynative) - Open-source framework for security agents with live, read-only access to your infrastructure (connects to AWS, GCP, Azure, self-managed Kubernetes, GitHub and GitLab).
 
 ## Security Practices and CTFs
+
+- [Insomnia Security MCP (CQR Cybersecurity LLC)](https://github.com/CQR-Cybersecurity-LLC/insomnia-mcp) - 159 native cybersecurity, multi-language SAST/taint, live secret validation, SCA/SBOM, Web DAST, OSINT, 21,100+ 1-Day CVE verification, 29-protocol enumeration & Outbound Internal Network Tunnel v4.0 MCP tools (`https://mcp.insom.ai/mcp`, 50 free credits).
 1. [AWS Well Architected Security Labs](https://wellarchitectedlabs.com/security/)
 2. [Flaws to learn common mistakes in AWS through challenge](http://flaws.cloud/)
 3. [Flaws2 focuses on AWS security concepts through various challenge levels](http://flaws2.cloud/)
